@@ -1,0 +1,3021 @@
+########################################
+# Program: needle
+# Rundate: Sun  5 Apr 2026 11:07:42
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20260405-110735-0869-64004294-p1m.asequence
+#    -bsequence emboss_needle-I20260405-110735-0869-64004294-p1m.bsequence
+#    -datafile EDNAFULL
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -snucleotide1
+#    -snucleotide2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: c135876443-135839626
+# 2: NM_008567.2
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 37228
+# Identity:    2055/37228 ( 5.5%)
+# Similarity:  2055/37228 ( 5.5%)
+# Gaps:       34672/37228 (93.1%)
+# Score: 3435.0
+# 
+#
+#=======================================
+
+c135876443-13      1 GCAAAGCTGCAGCGTCTGGAAAAAAGCGACTTGTGGCGGTCGAGCGTGGC     50
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13     51 GCAGGCGAATCCTCGGCACTAAGCAAATATGGACCTCGCGGCGGCAGCGG    100
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13    101 AGCCGGGCGCCGGCAGCCAGCACCTGGAGGTCCGCGACGAGGTGGCCGAG    150
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13    151 AAGTGCCAGAAACTGTTCCTGGACTTCTTGGAGGAGTAAGTCGGCGAGCG    200
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13    201 CCCCGGGCCTCGCCCGCCTCCGGAGCCTGCGGCGTCTGGGCCAGGCGGTG    250
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13    251 CCGTGTGGGCGGCGGGTGTTCCGGAACCTGGGGGTCGCGCGTCCGGGAAG    300
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13    301 CGCCTCCCCGCCCGCCCCCCAACTTTAGGCTCCGAGCCCGGCGGCCGCGA    350
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13    351 GGAGCCTGGGACAGGCTGGGTTTTTCTGGAGTAAAACCCATCTCGAGCCC    400
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13    401 TAAGACGCTCGTGCCCAGTGCTCAGCGCTTTGCTTCTGTCACTTGATGCT    450
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13    451 CACCACCCCGCGAGCCTGGTATTTGCACAGCCCTCGGTGACCGGCGCGGA    500
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13    501 AACCTGGGCTCGCTGAGTATAGTAACTGGGCCGCTGGGTGCGGCCAGGTC    550
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13    551 GAGTGGGAGGCCGAAGTGCCATTGAATCTCGTCGGTGCCCTGCTGGGCCA    600
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13    601 CGCAGCCGGGAGCATGGTGCTGGGGGTTCGCAGGGCACGGGCCACCCTCG    650
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13    651 CCTCTTGTGCTGATGAAAGTTTCTGCGTCAACTGTGGTTTGAAAGCTGCT    700
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13    701 GGGGGGCGGAGCCCTGCCCTGCAGAGAGTAGCTCACCATATCCCTTCTTC    750
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13    751 TGGGTCCCTTGCTCCCCTTTCCCTCTGGCCTTCCTTTCCTTTCTCTACTC    800
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13    801 TTCTTTTTTTCTGTGCCTCTGGGCTCCTAGCTTCATAACCCCAACCTCCT    850
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13    851 CCCTGGCTTGCCTCACCCACCGGTTATTTTTCCTGGAGCAGATACACCAC    900
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13    901 GGCCTCCAGGATGAAGGGTCAGCAGTTTGGAATGGCTTTTGAAGTTCTTT    950
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13    951 TTTAGTAAAATATACATAACAAAGTTGACCATTTTAGCCATTTTTAAGTG   1000
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   1001 TAGAGTCCAGTGGCACTAAGTGCATTCACCTCGTTGTGCAGCCGTCACCA   1050
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   1051 CTCTCCCATCTCCAAACTTTTTTTTTTTTGAGGCGTAATTTAGCCCTTGT   1100
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   1101 TGCCCAGGCCGGAGTGCAGTGTCACCATCTCAGCTCACCGCAACCTCCGT   1150
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   1151 CTCCCGGGTTCAAGCTATTCTCCTGCCTCAGCCTCCCTACTAGCTGGAAT   1200
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   1201 TACAGGCATGCGCCACCACGCCCGGCTAATTTGGTATTTTAGTAGAGATG   1250
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   1251 GGGTTTCTCCATGTTGGTCAGGCTGGTCTTGAACTCCCGACCTCAGGTGA   1300
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   1301 TCCCCCCGCCTGGGCTTCCCAAAGTGATTACAGGCGTGAGCCACCGTGTC   1350
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   1351 CGGCTCCAAACTCTTTTCATCTTCCAAACTGACATTCTGTGCCCATTAAA   1400
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   1401 CACGAACTCTCCTCCGTTACCCTCTCCCTCAGCCACCGTCACCCACCACT   1450
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   1451 CTGCTTCCTTTCATTATGAGTTTGACCACTCTAGGTACCTCATATAAGTG   1500
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   1501 GAAGCGTGTAGTATTTGTCCTTTTGTGTCTGGCTTGTGTAACATAATGTC   1550
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   1551 TACAAGGTTCCTCTGCGAGGTAGCATGTGTCAGAATTTCCTTACTTTTTA   1600
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   1601 AGGCTAAATAACATTGTCTGTACACATTGAGTATCCCTTTTCTGAAACGC   1650
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   1651 TTGGGACCAGAAGAGTTTGGGATCTTGGATTTTTTTTTCAGATTTGGAAT   1700
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   1701 GTTTACATTATACTTAACCAATTGCATCCCTAATTTGAAATGCTCCAGTG   1750
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   1751 AAAATCATGTCAGCACTCAAAAAGTTTCAGATTTTGGACCATTTCATATT   1800
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   1801 TTAAATTTTCAGATGAGGGCTGCTCAACCTGTATATATACTGCATTTTGC   1850
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   1851 TTATCCATTCAGTGGACACAGGTTCATTCCACCTTTTGTCTATTGTGAAT   1900
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   1901 AATGAGGTTCATTCCACCTTTTGGCTATTGTGAATAATGCTGCCTTCTTA   1950
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   1951 GGAAATTTTGGTATACTTAAAACCATAATTTAATTTCCATTTCACTACCT   2000
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   2001 ATGGCAATGTTATTGTCTGCCTGATAGTTCCTCCTTCAAAGCCCAGCTAA   2050
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   2051 AAACTCACACCTTTGTGAAACCTTGTACACCTTTTTGAGAGGCACTAATC   2100
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   2101 CTTTCTTCCTTAGGCTCCCAGGGTGCTGTTTGTTTTTCATTATCTCTGGC   2150
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   2151 AGTGTAACACATTTACCTCCTAGCTACTTAGTCTGGAATTCAAATTCCAT   2200
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   2201 CCTCAACCCCACCTACCCACCACATCACATTACAAAGGTTTTTCAATAAA   2250
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   2251 CGTTTCATTTCAACAAATAATCTAAGTGCCTTGACTTTGCAGCTAGATGA   2300
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   2301 TAATGATGAGACAAATAATCTCTGTGCTTTGTTTAAAGAAATGCCAACTC   2350
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   2351 CCTGTCACAAAATAAACTTTAATTCACCATTGCTTGTGGAATAAAGTTCA   2400
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   2401 AATTCTTCATCACTCCTCTTTCCTGTTTGTCTTACAAAAACACCCCAGTC   2450
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   2451 ATCATCCACACTTCTCCCCTACCTTCTCTGACTTAATCACATTCTTGGAA   2500
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   2501 TCATCTAGTCAGTCACTTCACCACCTGTTTTTATTTGAAATTTTTAACTC   2550
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   2551 TTTCAGAAGCTGAATTCCAACGCCACCTTTTATATGTATAACTTGTAGTT   2600
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   2601 GTTTTTTTAGGCAGAATTAGTTTCTATTCCCCTAGCACATTTCTTGTTCT   2650
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   2651 TCTCATTAACAGGAACATCTTTCTTGTCTGTCTTCATTGCTTACATGTCT   2700
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   2701 AACTCCCTAGACGCAGACAAAGTGTTAGTTAACCCTAGGGCAGGAACAAC   2750
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   2751 ACTGCCATTTTCAGCCTCAGGTACCTCTGTTATAGGGCTTTGCACGTAGT   2800
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   2801 TGTTTAACAAATATTTTAAGGAGTCAGAACATGCTGTATATGGAGGAGAA   2850
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   2851 ATTGATTTTTTCTTAAGGCGAATCTGCATATTATGTTTGAAAGAACAGAA   2900
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   2901 ATAAATTTGTATGATATCCTGCTTGGGCTTTAGAAGCAAAAATACCAGCA   2950
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   2951 GCTTTATTTAGTGTGCCTGTTTCAATTTTCCCGAAGTCTTGGGCTGTGAA   3000
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   3001 ACACCTCATTTCCATGTATTCTTATTTCTGTTCTGCTTCTTAAATCCCTG   3050
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   3051 ACTAATTTGTTAGTTTGCAAATTCCCTACAGAAATGGAATCATTGGGTTT   3100
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   3101 GAGACTGAATTTCTTGATTTAACATTTTCCAATCTTAATTATACATGACA   3150
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   3151 GTAGTAAAAGAAGAGTTAGTTGTTGGGTTTTTTTGTTAGTTAGCAGTTAA   3200
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   3201 ACCTCACAATCATGGTGGAAGGCAAGGAGGAGCAAGTCACTGATGTCTTA   3250
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   3251 CGTGGATGGCATCAGGCAAAGAGAGCTTGTGCAGAGGAACTCCTCTTTTT   3300
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   3301 AAAACCATCAGATCTCGTGAGACTTACTATCAGAGAACAGCAGGGGAAAG   3350
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   3351 ACTTGTCCCCATGCTTCAATTAACTCCCACCAGGTGCCTCCCACAACATG   3400
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   3401 TGGAAATTCAAGTCGAGATTTGGGTGGGGACACAGCCAAACCATATCAGA   3450
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   3451 AGGGAGGAGTAACTTGCCCCAAGTTACAGAACTGCCAAACATGGGCCTGT   3500
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   3501 CTGAGCCTAGTTGTTGGACTTTAACCAATGTTCTGAATTATCATTCAGGT   3550
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   3551 TCTTTGTACTGCCTGTGTCCTTAATCTAGTTGACTCGAATGTACCTGCAG   3600
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   3601 GTTTCAGAGCAGCGATGGAGAAATTAAATACTTGCAATTAGCAGAGGAAC   3650
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   3651 TGATTCGTCCTGAGAGAAACACATTGGTTGTGAGTTTTGTGGACCTGGAA   3700
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   3701 CAATTTAACCAGCAACTTTCCACCACCATTCAAGAGGAGTTCTATAGGTA   3750
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   3751 TGGGCATATTAATCTTCTTTACTTTGAATAGGGGTTGAAATCCGGGAAGC   3800
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   3801 CAGCTCTTCTTGGACTGTAAGTGTTCACTTGTGTAGCAGAAGGTCAGCTT   3850
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   3851 TCACAGTTATTTCCCACTGAGAAGAGGCGCTTTGATACTGCCAGTGGTCG   3900
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   3901 TTTTAGTACTGCTCTGAACTTCATGTAGGCCTTTGTAGAGCCGAACGTTT   3950
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   3951 TTTTGTTGTTGTGTTTTGTTTGTTTGTTTGTTTGTTTGTTTTTTGAGACG   4000
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   4001 GAGTCTTGCTCTGTCACACCTAGGCCGAAATGCAGTGGCGCGATCTTGGC   4050
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   4051 TCACTGCAACCTCTGCCTCCCGGGTTCAAGCGATTCTTCTGCGTCAGCCT   4100
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   4101 CCCGAATAGCTGGGATTACAGGCGCCCACCATCACGCCCGGCTAATTATT   4150
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   4151 TACATTTTTTAATAGAGACGGGGTGTCACCATGTTGGTCAGGCTGGTCTC   4200
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   4201 GAACTCCTGATCTCAGGTGATCCGCCCGCCTCGGCCTCCCAAAATGCTGG   4250
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   4251 GATTACAGGCGTGAGCCACCGTGCCCGGCCAGAGCTGAACTTTTTTTTTC   4300
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   4301 AAATACAAATGTTGAAAATCTTTGCTTTCTATATAGTTTTCCCAAGAGGA   4350
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   4351 AAACTGTACTTACTTACTTTTGTGTCATTCCATTGATCCTTTTTCCCCAC   4400
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   4401 AGGAATAGGTGTTTGTGTGGGTCCTTTTCTTGTACTGGGGATATCTTTAC   4450
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   4451 AGCATTGACGTTGTTGTACTTCTTGTTCCCTTAAAGTTTAATTTTGTTTT   4500
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   4501 CGCTTATAAAAGTAATAGGTATATATTGTAGAAAATGGAGAAGAGTAAGG   4550
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   4551 AGAATTAAATTGCTTATACACTTGTAATCCACCACCGTCATTAGCAGATC   4600
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   4601 TGCTACAACAGAGTTCCAGGAGCCTTCCAAGTCTGCAAGTGCAGAGTTTT   4650
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   4651 GTAAGGATCTTCTGTCACATTTTGATGTCTTTGTGTGTATGCTGTGTATG   4700
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   4701 AAATTACTCAAATTCATATAAAATTTCTTAAACTCATACTAATAGCTCCA   4750
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   4751 ATTGTGGTTTTTTGGTAGAAATACTATGGTTAGACATTATATTTAATAGA   4800
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   4801 AGGCTTTTATTTTGTTTTGACTTGTTATATATAGCAAGAAACATCTTTGC   4850
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   4851 ACACAAGACTTTGTATTAGGATTAAATAAATGTGACAGTCTATAGAAATA   4900
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   4901 GAATCAGGTTAAAATAAATTGTGGACAGTTGTGAAAGATAAATGAAAACC   4950
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   4951 CAGGGATAAGGAGGCACAGTCTCGTTCATTTCTTAGTAGATTAGGAGATG   5000
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   5001 GAGGATTTGTCTGTGTTTCTGGTCATAGCTGATGATCAAGAATAATTGGA   5050
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   5051 GGGGGTAAGTAAGCAACAGGATTTATTGTGAAAGCATGCAGCAGTAGAAG   5100
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   5101 TTATAGCACTGACAAATAAGGGAGAGGTAGACAATCAAGCCTGGTGGTAG   5150
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   5151 AAGCAGCTGTGCCATGCCTCATGCACAAGCCAGGCAGCAGTTCTCTTTCC   5200
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   5201 TGAGAGTAGCGCCTTTTTTAGAGGGTTTCAGACCCCACTTCTTAAACAAA   5250
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   5251 CTAAGCTGGAGTAGGTATTAGAAACATATCAAAAGGACATGCATACTTCA   5300
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   5301 CTCTCACCAGTCAAATGGAGCATTTTTGCCAATTTGTTCTCACATTAGTG   5350
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   5351 CACAAATACTTCTCCTGTCCTCATCCATTTCTTATCAAACCAGCCAGATG   5400
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   5401 TGGTGGCTCACACCTGTAATCCTAACACTTTGGGAGGCTGAGGTGGATAG   5450
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   5451 ATCACTTGAGCCCAGGAGTTTGAGACCAGCCTGGACAACATGGTGAAATC   5500
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   5501 CCATTTCTACAAAAAAAACCCCACAAAAATTAGCTGGGCATGGTGGTGCA   5550
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   5551 TGCCTGTAGTGCCAGCTACTCAGCAAGCTGAGATGGGAGGATCACCTGAG   5600
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   5601 CCTAGGTAGATTGAGGCTGCAGTGAGCTGTGATCGTGCCACTGCACTCCA   5650
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   5651 GTCTGGGTGACAGAGTGAGACCTTGTCTCAGAATGAAACCAAAGAAATTG   5700
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   5701 ACTGACTTGACACATGACTTACTAAGTCATAAACAGCCCACAGAAAATTC   5750
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   5751 ACAGTATTGAGCATAATATTGACAAGATGATTGTTCAGCTAGTCATCTTG   5800
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   5801 GACAGAGGAATGGCCAACAGTGTGGGTGCTGTATGATTATTTATGTGCTA   5850
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   5851 TATGATAATCAGGTATGGTATGACATTTTATATTTAGTGTTCCGGTGGGA   5900
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   5901 TAGGAGAGAACTGAAAGAGGGTCCTAAACCTAGAGTAGATAATAGAAGTG   5950
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   5951 TCCTACACAGTTAAGTTCTAAGGTTTAGTTGTAACCAGATGAAATTCCTT   6000
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   6001 AATCTCGGCTGTTGGTAGGTATGTAAAGGGAAGGAGGCCTTGGTAAACCT   6050
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   6051 CTAAGGTATCAGCTGACTTTTTTGTTTTTCAGAGTTTACCCTTACCTGTG   6100
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   6101 TCGGGCCTTGAAAACATTCGTCAAAGACCGTAAAGAGATCCCTCTTGCCA   6150
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   6151 AGGATTTTTATGTTGCATTCCAAGACCTGCCTACCAGACACAAGTAAGAA   6200
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   6201 ACCCTTCTCTGGAAAAAAAGGAATTCACCAAATGGTATAAGTACCACTTA   6250
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   6251 GCTGACAGTCAGAAAACTTGAGAGGTTGCCTTGATCTGCTATTAGCTGGC   6300
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   6301 TATTTAACATTATACAAATCACTTTTACCTCCCTGAGCCTCAGTTTCCTT   6350
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   6351 GTCTGTGAAGTCTTTTGGCTTAGGTTTTCTACCTAAATCATGCAAAAAAT   6400
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   6401 AGGTTTGTTGCTGTAAAATTACTTTTTCATAATTGATAATCACAATAATT   6450
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   6451 ATAAAACAAGTACTTATAAAATTGATGCTGTAAAATACCAGGAGGAAAAA   6500
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   6501 ATAGTGGTTTGCATTCAGATTTTGTAGAAGGTTGACTTTTGTAGGAGTTA   6550
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   6551 TACCCACTTATCCAGAAAGTTTAGTGTTGGAGAAATGTATTTTCCTATGG   6600
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   6601 AGATGGGATTAGATGTAAAGGGAGTGAAGCAAATTTTTAGGATTATCACA   6650
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   6651 TTTTAGGGCGCCTTTTAGGGAAATTTGGGAGAAAATTGATCAAGGGAGAA   6700
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   6701 AATATGAAATTCTAGAAATTCCTGAATCTCTGGAAATTTTTGTTGGTTTA   6750
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   6751 AATGCATAATTTTCAAACACCCCTTTGGCAGTTATTTTAAGAATAAATTT   6800
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   6801 ACTGGATAAAATTGAAGTGATATTTTGAAAAGTTAAACTACTGAAATTAT   6850
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   6851 AAAATTACCAAATTACTTCACATAAAATGGGTTTGTAAAGGAAGTGTTTC   6900
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   6901 TGAACTTTGAGTACAAAATTTTTTCTCATGATAGGATTATTATGTAACAC   6950
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   6951 ATGCTTTTTTTTTTAGAAATTGCGGGTAAGCAAAAAAGTATTTGCATATA   7000
+                                                                       
+NM_008567.2        1 --------------------------------------------------      0
+
+c135876443-13   7001 AAACAAAAACAGGATCATTCTGTTTTTGTTTTTTTTTTTTTCTGAGACAG   7050
+                                                                |||...|
+NM_008567.2        1 -------------------------------------------GAGGGCG      7
+
+c135876443-13   7051 AGTCTTGCTCTGTCACCCAGGCCAGAGTGCAGTGGC--------ACGATC   7092
+                     .|.||.||       |..||||..|.|.|.||||||        |.||.|
+NM_008567.2        8 GGGCTAGC-------CGGAGGCGCGCGCGAAGTGGCAGCGCGGAAGGAGC     50
+
+c135876443-13   7093 T-------------------TGGCTCACTGCACC------CTCCACCTCC   7117
+                     |                   .||||..|||||.|      || |.|||||
+NM_008567.2       51 TACGCGTGGAACCTGCGGCCGGGCTATCTGCAGCTGCGGACT-CTCCTCC     99
+
+c135876443-13   7118 CGGGT--TCAAACAATTCTCCT--GC----------CTCGGCTCC-----   7148
+                     ..|||  ||      ||| |||  ||          ||||||.||     
+NM_008567.2      100 GCGGTGGTC------TTC-CCTCAGCAGCGCGTACTCTCGGCGCCGCCAT    142
+
+c135876443-13   7149 --------------CCGAGTAGCTGGGATTACAGGCGCC---CGCCACCA   7181
+                                   |||.|.|||        |.||||||   .||||.||
+NM_008567.2      143 GGACCTCGCAGCGGCCGCGGAGC--------CCGGCGCCGGAAGCCAGCA    184
+
+c135876443-13   7182 ------------CGACTGGCTAGTTTTTGTATTTTTAGTAGAGGTGGGGT   7219
+                                 ||||                        ||||||    
+NM_008567.2      185 CCCGGAGGTGCGCGAC------------------------GAGGTG----    206
+
+c135876443-13   7220 TTCGCC-----ATGTTGGCCAG--GATGGTCTTGATCTCTTGACCTCATG   7262
+                        |||     ||    |||||  |.||.||       ||.|||.||   
+NM_008567.2      207 ---GCCGAGAAAT----GCCAGAAGCTGTTC-------CTAGACTTC---    239
+
+c135876443-13   7263 ATCCGCCCACCTTGGTCTCCCAAAGTGCTGGGA---TTACAGGTGTGAGT   7309
+                                                ||||.|   ||.||||       
+NM_008567.2      240 ---------------------------CTGGAAGAGTTCCAGG-------    255
+
+c135876443-13   7310 CACTGCGCCCAGCCCGTTCTGTTTTATAATTTTAAT--TTTCATTTTTTT   7357
+                                    ||..||.|..|.||.||.|||  ||.||.|||   
+NM_008567.2      256 ---------------GTAGTGATGGAGAAATTAAATACTTGCAGTTT---    287
+
+c135876443-13   7358 GGCATCCTTTAGTTCATTTATATATTTTGTTCTGGATACATATAC----G   7403
+                      |||     .||      .|..||.||.||.|| ||.|.|.|.||    |
+NM_008567.2      288 -GCA-----GAG------GAGCTAATTCGTCCT-GAGAGAAACACGCTGG    324
+
+c135876443-13   7404 TCATATAATTTAGGATTGGGCACGTTGACTAAATTA----------TTCT   7443
+                     |  |.|.|.||    |||...||.|.||..||.|||          ||||
+NM_008567.2      325 T--TGTGAGTT----TTGCAGACCTGGAACAATTTAACCAACAACTTTCT    368
+
+c135876443-13   7444 -------TATAGG-AGAG-TCCAAAGA--------ATACCT-TGTC---T   7472
+                            |..||| |||| ||.|.|||        .||||| ||||   .
+NM_008567.2      369 ACCACCATTCAGGAAGAGTTCTATAGAGTCTACCCTTACCTGTGTCGAGC    418
+
+c135876443-13   7473 CTTGAATTTTTTTTTTAAACATAAATTATCTTTGAATACCCTCTCACTAA   7522
+                     ||||||                    .|.|||||         |||  ||
+NM_008567.2      419 CTTGAA--------------------GACCTTTG---------TCA--AA    437
+
+c135876443-13   7523 AATGGAA---AGATTC--TTAGTTAAGAGA--TGAATGTT----------   7555
+                     .|..|||   ||||.|  ||.|.|||| ||  |..|||||          
+NM_008567.2      438 GACCGAAAGGAGATCCCTTTTGCTAAG-GATTTTTATGTTGCATTCCAAG    486
+
+c135876443-13   7556 -------TACTAATGGGACATTTGTCTTTAAACAGGATTCGAGAGCTCAC   7598
+                            |||||    |||            |||.||||||.||||||||
+NM_008567.2      487 ACCTACCTACTA----GAC------------ACAAGATTCGTGAGCTCAC    520
+
+c135876443-13   7599 CTCATCCAGAATTGGTTTGCTCACTCGCATCAGTGGGCAGGTGGTGCGGA   7648
+                     .||||||||.|||||..|||||||.||.||||||||.|||||||||||.|
+NM_008567.2      521 TTCATCCAGGATTGGGCTGCTCACCCGAATCAGTGGCCAGGTGGTGCGCA    570
+
+c135876443-13   7649 CTCACCCAGTTCACCCAGAGCTTGTGAGCGGAACTTTTCTGTGCTTGGAC   7698
+                     ||||||||||||||||.|||||||||||.||||||||.||||||.|.|||
+NM_008567.2      571 CTCACCCAGTTCACCCTGAGCTTGTGAGTGGAACTTTCCTGTGCCTTGAC    620
+
+c135876443-13   7699 TGTCAGACAGTGATCAGGGATGTAGAACAGCAGTTCAAATACACACAGCC   7748
+                     |||||.||||||||.|.|||.|||||.|||||||||||||||||||||||
+NM_008567.2      621 TGTCAAACAGTGATTAAGGACGTAGAGCAGCAGTTCAAATACACACAGCC    670
+
+c135876443-13   7749 AAACATCTGCCGAAATCCAGTTTGTGCCAACAGGAGGAGATTCTTACTGG   7798
+                     .||.|||||||||||||||||.|||||||||||||.|||.|||.|.||.|
+NM_008567.2      671 GAATATCTGCCGAAATCCAGTGTGTGCCAACAGGAAGAGGTTCCTTCTAG    720
+
+c135876443-13   7799 ATACAAATAAATCAAGATTTGTTGATTTTCAAAAGGT----ATTTATTTA   7844
+                     |.||.||||||||||||||||||||||||||||||||    |||.|    
+NM_008567.2      721 ACACTAATAAATCAAGATTTGTTGATTTTCAAAAGGTTCGCATTCA----    766
+
+c135876443-13   7845 ACATCTGTTTAGATCAGAGTCCATCTATGATAATAATTCACTTCTAGGCC   7894
+                               ||   |||.||.|.|  .||         |||||    ||
+NM_008567.2      767 ----------AG---AGACTCAAGC--GGA---------ACTTC----CC    788
+
+c135876443-13   7895 CTTGCAA-TAGCTTATTTAGATAATGTTCAACTCAATTT-----TTAT-G   7937
+                     |..|.|| ||                |||..|..|.|||     |||| .
+NM_008567.2      789 CGGGGAAGTA----------------TTCCCCGGAGTTTAGAGGTTATCC    822
+
+c135876443-13   7938 TAAGTTAAGCATCATCAAAATGA--CTACAAAGT----TAAGCCCAAAAC   7981
+                     |.||   |||          |||  ||     ||    |.||||| ||.|
+NM_008567.2      823 TGAG---AGC----------TGAAGCT-----GTGGAGTCAGCCC-AAGC    853
+
+c135876443-13   7982 TGTTCATGTAAATTATAATTGTTAGTATATACATTTGTTTTAACTTTCAG   8031
+                     ||                                               |
+NM_008567.2      854 TG-----------------------------------------------G    856
+
+c135876443-13   8032 TAACTTGGAAGTTCCTTAAGACTGACAAGATGT-ATTTGTCAAAGAATAA   8080
+                     |.||                       |||||| |||  |||.||     
+NM_008567.2      857 TGAC-----------------------AGATGTGATT--TCACAG-----    876
+
+c135876443-13   8081 ATGGTAACTAGGTGGTGGTGGTTGT-CATTATGAACTGGAGTTAAGAAAA   8129
+                       ||..||       ||.|.||||| |.|.|||                 
+NM_008567.2      877 --GGGCAC-------TGATTGTTGTGCCTGATG-----------------    900
+
+c135876443-13   8130 CTTAAAGAAATAGCAACTTGTTAGTGTAAGATTTCCATTTGCTGCATAGA   8179
+                                                    |.||||             
+NM_008567.2      901 -------------------------------TCTCCA-------------    906
+
+c135876443-13   8180 AAGGAAAGCATGAATAGGACAGGCTAGCTTGGAAGCAATGAGGATTATCA   8229
+                                              |||||   ||||           ||
+NM_008567.2      907 -------------------------AGCTT---AGCA-----------CA    917
+
+c135876443-13   8230 TGATTGAAGTAAAGGAGCCAAATTGGAGATCATCTG-AGAGATGATTTGA   8278
+                                      |||    ||||  ||..|| |||||        
+NM_008567.2      918 -----------------CCA----GGAG--CACGTGCAGAGA--------    936
+
+c135876443-13   8279 TGTGAGACCTGGAGGTACTTGGATCCCTAAATC-----TTAG----GCTG   8319
+                                               ||||.||     |.||    ||||
+NM_008567.2      937 --------------------------CTAACTCCCGAGTCAGTGGAGCTG    960
+
+c135876443-13   8320 AGGAGTTTGAGCCTATCTTAATAAGCAGTGGGAATATAGTGGGAAGGTAG   8369
+                     |.|.||.||||.|                            .|||||.| 
+NM_008567.2      961 ATGGGTATGAGAC----------------------------AGAAGGCA-    981
+
+c135876443-13   8370 TTTGTGTG-TGTGGG----TGTGTGTTTGTTTTGTTTTGTTTTTTGTTTT   8414
+                     ||.|.|.| |..|||    || |||                         
+NM_008567.2      982 TTCGAGGGCTCCGGGCCCTTG-GTG-------------------------   1005
+
+c135876443-13   8415 TTTTTGAGACAGTCTCTCTCTGTCACCCAGGCTGGAGTGCAGTGGCGCGA   8464
+                       |..||||         |||||||..||||||||               
+NM_008567.2     1006 --TCAGAGA---------TCTGTCATACAGGCTGG---------------   1029
+
+c135876443-13   8465 TCTCGGCTCACTGCAAGCTCC--GCCTCCTGGGTTCACGCCATTCTCCTG   8512
+                     |||               |||  ||||           |||||       
+NM_008567.2     1030 TCT---------------TCCTTGCCT-----------GCCAT-------   1046
+
+c135876443-13   8513 CCTCAGCCTCCCGAGTAGCTGGGACTACAGGTGCCCACC-ACCACACCCG   8561
+                                   ||.|                 |||| |||| |||| 
+NM_008567.2     1047 --------------GTTG-----------------CACCAACCA-ACCC-   1063
+
+c135876443-13   8562 GCTAATTTTTTGTATTTTTAGTAGAGACAGGGTTTCATCGTGTTAAACCA   8611
+                        ||..|||.|                ||||            |||   
+NM_008567.2     1064 ---AAGGTTTGG----------------AGGG------------AAA---   1079
+
+c135876443-13   8612 GGATGGTCTCGATCTCCTGACTTCGTGATCCGCCTGCCTCTGCCTCCCAA   8661
+                               ||.|||                                  
+NM_008567.2     1080 ----------GAACTC----------------------------------   1085
+
+c135876443-13   8662 AGTGCTG-GGATACAG---GCGTGAGCCACTGCACCCAGCCTGTGTGTTT   8707
+                     ||.|.|| ||| ||||   || ||||           |||          
+NM_008567.2     1086 AGAGATGAGGA-ACAGACCGC-TGAG-----------AGC----------   1112
+
+c135876443-13   8708 TTTTTTAA-AAGCAAACTGAATAAGTCCGTGATGGGTTTAACAGAGGGTA   8756
+                        .|||| ||.|||| |||      |.||||.||              |
+NM_008567.2     1113 ---ATTAAGAACCAAA-TGA------CGGTGAAGG--------------A   1138
+
+c135876443-13   8757 ATAGGCAATTTCAGTTACCTGGGCAAGAGGTGATGGATGGCAGTAGTAAG   8806
+                     ||                   ||.||.|||||.|.||             
+NM_008567.2     1139 AT-------------------GGGAAAAGGTGTTTGA-------------   1156
+
+c135876443-13   8807 AATGAAGG---GGAC-----------CCTCAGATTTCAGCAGGA------   8836
+                     |||||  |   ||||           ||.|| ||.||.|||.||      
+NM_008567.2     1157 AATGA--GTCAGGACAAAAACCTGTACCACA-ATCTCTGCACGAGCCTCT   1203
+
+c135876443-13   8837 --CTTAATTTTATGGGACATACAAAATGGAAAGAAAAGCTGAAGCAGCTC   8884
+                       |.||.|          ||||                            
+NM_008567.2     1204 TCCCTACT----------ATAC----------------------------   1215
+
+c135876443-13   8885 AAGTATGG-AATAATTATTATCAGATGAATTTAA--------TATTATTT   8925
+                         |||| |||           ||||||.|.||        |.|||.|.
+NM_008567.2     1216 ----ATGGCAAT-----------GATGAAGTAAAACGCGGTGTCTTACTG   1250
+
+c135876443-13   8926 ATATTGCTCTGATAATCATTCTCCTTATTTGGCTTTCTTACATTAACCTG   8975
+                     ||.|||.||.|                                     ||
+NM_008567.2     1251 ATGTTGTTCGG-------------------------------------TG   1263
+
+c135876443-13   8976 GTAGCTTATAAGATGCACATATTTTACCAACAGCTTTGGGTAGGAGATGT   9025
+                     || |.|..|||||              ||||||    |||.||||     
+NM_008567.2     1264 GT-GTTCCTAAGA--------------CAACAG----GGGAAGGA-----   1289
+
+c135876443-13   9026 CTTATCTTATAAAGTATGAATCTAGATTGGGTCTTAGTTTGGGGGGGGGA   9075
+                        |.||                       .||||.||       |||||
+NM_008567.2     1290 ---ACCT-----------------------CTCTTCGT-------GGGGA   1306
+
+c135876443-13   9076 ACACAACTGTATAAAGGACACTCTTGACAAGACATTTGAAGATGGACTAG   9125
+                              ||||||.|                 ||||.|          
+NM_008567.2     1307 ---------TATAAATG-----------------TTTGCA----------   1320
+
+c135876443-13   9126 ATAATAGAAGATATGTAATTTTATGAAATTAAATATTGTTTAATTATCTT   9175
+                                                                     ||
+NM_008567.2     1321 ------------------------------------------------TT   1322
+
+c135876443-13   9176 GGTTGTGAT--AATGATATTGTAACAGGATTGTCTTTATTCTTAGAGATG   9223
+                     |.|.|||||  ||       || ||||             ||.||||...
+NM_008567.2     1323 GTTGGTGATCCAA-------GT-ACAG-------------CTAAGAGCCA   1351
+
+c135876443-13   9224 AATGCTAAAATATTTAGGTATGAAGTTTCTTGATGTT------CACAACT   9267
+                     |.|.||.||..|..|  |.|.||           |||      ||.|.||
+NM_008567.2     1352 ATTTCTCAAGCACGT--GGACGA-----------GTTCAGTCCCAGAGCT   1388
+
+c135876443-13   9268 GTGTTCAAATACATAGTAAAAAAACATGTA--TCTG------TAAATAAT   9309
+                     ||.|    |||| .|||...|||.|.|..|  .|||      |||     
+NM_008567.2     1389 GTCT----ATAC-CAGTGGCAAAGCCTCCAGCGCTGCCGGCTTAA-----   1428
+
+c135876443-13   9310 GTTAGCAGTTGTGTTGAAGTGGAGGGTATAAAAGGTGTATTT---GAAAT   9356
+                       .|||||.||||.|||    |||   ||.||    |.||.|   |||.|
+NM_008567.2     1429 --CAGCAGCTGTGGTGA----GAG---ATGAA----GAATCTCACGAATT   1465
+
+c135876443-13   9357 TTTCTGTAAAATTATCTTAAAGCTTAGGAGAAGATGGAGCATGGAACAGA   9406
+                     |.||      |||                ||.|.||||||.|.||     
+NM_008567.2     1466 TGTC------ATT----------------GAGGCTGGAGCGTTGA-----   1488
+
+c135876443-13   9407 TATTTGGAGTCATTTTGAACAAAGAAAAAAATTATTTTTTAATGAGTAAA   9456
+                         ||..|.|    |||                     |||||      
+NM_008567.2     1489 ----TGCTGGC----TGA---------------------TAATG------   1503
+
+c135876443-13   9457 AGTGAAGTTTTTTTTTTCTCTGCTGCTTGAATCATCATGGAGTTTTTAAA   9506
+                      |||              ||||    |||.||  |.|||.|   |||.|.
+NM_008567.2     1504 -GTG--------------TCTG----TTGTAT--TGATGAA---TTTGAT   1529
+
+c135876443-13   9507 TAGATGTAATCTCTTG-----CCAAATTGAACTATTTGACTAA---AAGG   9548
+                     .|||||.|    |.||     ||||.|||  ||| ||.||.||   |.||
+NM_008567.2     1530 AAGATGGA----CATGCGGGACCAAGTTG--CTA-TTCACGAAGCTATGG   1572
+
+c135876443-13   9549 AGTTTTAGAGTAGATAATTTTTAGGATAAATGTTGGTACATGTGAAAAGT   9598
+                     ||     .||.|||..||.|.||              .||.|   |||| 
+NM_008567.2     1573 AG-----CAGCAGACCATCTCTA--------------TCACG---AAAG-   1599
+
+c135876443-13   9599 CTGCTAATGGGTCAGATAGTTTAGAATACGTCCGTATTTGTGGTATTTAA   9648
+                                 |||        ||              |||        
+NM_008567.2     1600 ------------CAG--------GA--------------GTG--------   1607
+
+c135876443-13   9649 TTTAGATTATATGGCA--TCTGAAAGGTATTGCTTCTCATTCTTGGTTGG   9696
+                               |.||||  ||||||      |||                 
+NM_008567.2     1608 ----------AAGGCAACTCTGAA------TGC-----------------   1624
+
+c135876443-13   9697 TTGTTTGTCTGTATTACAGGTTCGTATTCAAGAGACCCAAGCTGAGCTTC   9746
+                                     |||              |||              
+NM_008567.2     1625 ----------------CAG--------------GAC--------------   1630
+
+c135876443-13   9747 CTCGAGGGAGTATCCCCCGCAGTTTAGAAGTAATTTTAAGGGCTGAAGCT   9796
+                                ||||                 ||||||   ||||.||| 
+NM_008567.2     1631 -----------ATCC-----------------ATTTTA---GCTGCAGC-   1648
+
+c135876443-13   9797 GTGGAA------TCAGCTCAAGCTGGTGACAAGTGTGACTTTACAGGGAC   9840
+                         ||      |||||                             ||||
+NM_008567.2     1649 ----AAACCCTGTCAGC-----------------------------GGAC   1665
+
+c135876443-13   9841 ACTGATTGTTGTGCCTGACGTCTCCAAGCTTAGCACACCAGGTCAGTAAT   9890
+                     |||           .|||                    |||.||| .|||
+NM_008567.2     1666 ACT-----------ATGA--------------------CAGATCA-AAAT   1683
+
+c135876443-13   9891 CTGTGGCTCAAATTTAACAAATTCTCAGTTACCTAAACTGCACAGTATCT   9940
+                     ||.||    |||...||||     |||                   ||||
+NM_008567.2     1684 CTTTG----AAACAGAACA-----TCA-------------------ATCT   1705
+
+c135876443-13   9941 ---AGCTTCCCA-CAT------CTTCATTGTCTTCTTTTTGGCTACCAAT   9980
+                        ||| .|||| |||      |||...|.|||||||         ||.|
+NM_008567.2     1706 GTCAGC-GCCCATCATGTCCCGCTTTGATCTCTTCTT---------CATT   1745
+
+c135876443-13   9981 CAGAAGCTGAGGAACGAAGTGTGATGAGAATAAAAACAAAT--TGGTTTT  10028
+                     |.|  |..||.|||.|.|.||.|.||         |||.||  ||.|.||
+NM_008567.2     1746 CTG--GTGGATGAATGCAATGAGGTG---------ACAGATTATGCTATT   1784
+
+c135876443-13  10029 GCCACAAATGGTGCTATTCTGAAAGTATTCAAGGCTTAAGTGAAGTCTTT  10078
+                     ||||     ||.||       |.||||              ||       
+NM_008567.2     1785 GCCA-----GGCGC-------ATAGTA--------------GA-------   1801
+
+c135876443-13  10079 GGATTTATAGCTTTCATTTATTTGAGCAATTTTGATGTTCAGCACCTTTA  10128
+                               |||.||||        |||    ||               
+NM_008567.2     1802 ----------CTTGCATT--------CAA----GA---------------   1814
+
+c135876443-13  10129 ATATTTAAGTTGTGAAACAACCTATC-ATTCTGTTTCAGGAGCACGTGCA  10177
+                       |||.|||         ||.|.||| ||...||||              
+NM_008567.2     1815 --ATTGAAG---------AATCGATCGATCGAGTTT--------------   1839
+
+c135876443-13  10178 GAAACTAATTCCCGTGTCAGTGGTGTTGATGGATATGAGACAGAAGGCAT  10227
+                            ||||||            ||||| |||||.|||          
+NM_008567.2     1840 -------ATTCCC------------TTGAT-GATATAAGA----------   1859
+
+c135876443-13  10228 TCGAGGACTCCGGGCCCTTGGTGTTAGGGACCTT-TCTTATAGGCTGGTC  10276
+                                              |||.||||| |||            
+NM_008567.2     1860 -------------------------AGGTACCTTCTCT------------   1872
+
+c135876443-13  10277 TTTCTTGCCTG-CTGTGTTGCGCCAA--CCAA-----CCCAAGGGTCAG-  10317
+                         |||||.| |.||.|      ||  ||||     ||.|||.||||| 
+NM_008567.2     1873 ----TTGCCCGACAGTTT------AAACCCAAGATTTCCAAAGAGTCAGA   1912
+
+c135876443-13  10318 -----TCGTTTTGGGG--GTTTTTGTTTGTTTTTGAAACA---GTCTCTC  10357
+                          ||.||.|||.|  ||                 |||   |||||  
+NM_008567.2     1913 AGACTTCATTGTGGAGCAGT-----------------ACAAACGTCTC--   1943
+
+c135876443-13  10358 TCTGTCAC-CCAGGCTGGAGTGCAATGGCAAAGTCATGGCTCACTGTAGC  10406
+                            | ||||                  ||..|||||          
+NM_008567.2     1944 -------CGCCAG------------------AGGGATGGC----------   1958
+
+c135876443-13  10407 CTCCACTTTCTGGGCT---CAAGTGATCCTACCATCTCAACCTCCTGAGT  10453
+                             ||||||.|   |||||                ||||.||   
+NM_008567.2     1959 --------TCTGGGGTCACCAAGT----------------CCTCGTG---   1981
+
+c135876443-13  10454 AGCTGGGATTATAGGTGTGAATCACTGCACCCAGCTAATTAAAAAAACTT  10503
+                                     |.|||||||                         
+NM_008567.2     1982 ----------------GAGAATCAC-------------------------   1990
+
+c135876443-13  10504 TTTTAGAGATGAGGTCTTGCTCTGTTGGCCAGGCAGGCCAACAGTGAGTC  10553
+                                    |.|||                              
+NM_008567.2     1991 ---------------CGTGC------------------------------   1995
+
+c135876443-13  10554 TTAGTAGAGTGACAGCTTAAGAAACACCTACCCTGAGCTGCCACGAAATG  10603
+                               ||||||||.|              ||||         |||
+NM_008567.2     1996 ----------GACAGCTTGA--------------GAGC---------ATG   2012
+
+c135876443-13  10604 ATAGGATTCTGAAACATCTGGGCTGTCTCATCAATGTTGAGAGCACGGGA  10653
+                     ||..||.|||.|.|               |||||||      || |.|.|
+NM_008567.2     2013 ATCCGACTCTCAGA---------------ATCAATG------GC-CCGCA   2040
+
+c135876443-13  10654 TGGGGTTAAGATTTGATGAGTTTTAAAACCAAATCTTTTGACGTATGCCT  10703
+                     ||...|   |.|.|||.|||.||  .|.||.||.|.|.|||.|.|.||.|
+NM_008567.2     2041 TGCACT---GCTGTGACGAGGTT--CAGCCTAAACATGTGAAGGAAGCTT   2085
+
+c135876443-13  10704 TTCTGATCTTGAAAAAAAGTCTTATTTGATGTCTTACATAAAAGCTCAAT  10753
+                     |||                        |||..||.| |||||   |||||
+NM_008567.2     2086 TTC------------------------GATTACTGA-ATAAA---TCAAT   2107
+
+c135876443-13  10754 GCTTTTAAGTGCAGTGGTACAAATTATCCACGCTGTTTTTTGTTTTAAAG  10803
+                     ..|        |.|||        ||...||||      .||.|.|.|| 
+NM_008567.2     2108 CAT--------CCGTG--------TAGAGACGC------CTGATGTCAA-   2134
+
+c135876443-13  10804 TTTCATAGTTCCTCTGTTATTCTTCTGGAGGAAATACAAATAAAAAGATT  10853
+                       || |||.||                                 ||||  
+NM_008567.2     2135 --TC-TAGATC---------------------------------AAGA--   2146
+
+c135876443-13  10854 TAGTAATCTGGGAAGTAAACTTCTGAGAATGATGAACCCCTGGCAGTATC  10903
+                               ||||          |||                       
+NM_008567.2     2147 ----------GGAA----------GAG-----------------------   2153
+
+c135876443-13  10904 ATTCAGTTAACTTGATTCTGTGTCATAAATGG-GAGTTTGGAAAATAGTT  10952
+                     ||.|||                      |||| ||   .|||       |
+NM_008567.2     2154 ATCCAG----------------------ATGGAGA---CGGA-------T   2171
+
+c135876443-13  10953 CAGTATTGGAAAAAGGGAGTGAACATAATATTCTCTTATTTTATTTGCAT  11002
+                     .||    |||.||  ||||                           ||  
+NM_008567.2     2172 GAG----GGACAA--GGAG---------------------------GC--   2186
+
+c135876443-13  11003 CTTTATGTCAGTGATTAACATTCTGCTATCGCTTATCTCTTGAGCATTCA  11052
+                           ||||.||.|                             |||.|.
+NM_008567.2     2187 ------GTCAATGGT-----------------------------CATGCC   2201
+
+c135876443-13  11053 GGTAGCTTTTTTTCTATTTAACTCACTGGACAAATGACATACCCTTAAGT  11102
+                     |..|||                               |.|.|||.|  ||
+NM_008567.2     2202 GACAGC-------------------------------CCTGCCCCT--GT   2218
+
+c135876443-13  11103 GTCTTTGTT-AACTGAGGGCTTACTAGTTTGGGGAGTTGTTTTTTTTTAA  11151
+                     |..|..||| |||    ||||  |.|||    |.||.||           
+NM_008567.2     2219 GAATAGGTTCAAC----GGCT--CCAGT----GAAGATG-----------   2247
+
+c135876443-13  11152 ACCTTTACAGTCAATAAATTGTGAGGTTGACTTCCCATGCTATGTTGTGT  11201
+                           .|||.||..|.|.||          ||.|||.||          
+NM_008567.2     2248 ------CCAGCCAGGAGACTG----------TTTCCAAGC----------   2271
+
+c135876443-13  11202 TTGTAATGAAGTTTCTTCTCCTTTATGCT---CTTT--TGACTGCTTCTA  11246
+                                     .||||.|.|.|||   ||||  |||        |
+NM_008567.2     2272 ----------------CCTCCCTGAGGCTGGGCTTTGCTGA--------A   2297
+
+c135876443-13  11247 TACTAATGATTCT---TCCT--TTGTTCTCTACCATTAGTTTGGGGGGAA  11291
+                     ||||...||.|||   .|||  |.||.|||.|||                
+NM_008567.2     2298 TACTGCCGAATCTCGAACCTCATCGTGCTCCACC----------------   2331
+
+c135876443-13  11292 AGAGCTCAGAGATGAGGAACAGACAGCTGAGAGCATTAAGAACCAAATGA  11341
+                                 |.|||||.|                             
+NM_008567.2     2332 ------------TCAGGAAAA-----------------------------   2340
+
+c135876443-13  11342 CTGTGAAAGAATGGGAGAAAGTGTTTGAGATGAGTC-------AAGATAA  11384
+                        ||.|||||..||||           ||.|||||       ||||.||
+NM_008567.2     2341 ---TGGAAGAAGAGGAG-----------GACGAGTCGGCACTAAAGAGAA   2376
+
+c135876443-13  11385 AAATCTATACCACAATCTTTGTACCAGCCTGTTCCCTACT-ATACATGGT  11433
+                                           .|.|||.|||   |.||| .|||.||  
+NM_008567.2     2377 ----------------------GCGAGCTTGT---CAACTGGTACCTG--   2399
+
+c135876443-13  11434 AAGAATTCCATCCATTTGTACCATAAACTTGAAATCAAAATAATGATTAT  11483
+                     |||                           ||||||.||..|..|   ||
+NM_008567.2     2400 AAG---------------------------GAAATCGAATCAGAG---AT   2419
+
+c135876443-13  11484 AAACAGCCACAGGTGATTTCTGAA----AGCACATAAATCAGACTGTGAA  11529
+                     |.||              ||||||    |||.|||||||.|         
+NM_008567.2     2420 AGAC--------------TCTGAAGAAGAGCTCATAAATAA---------   2446
+
+c135876443-13  11530 AGTTTTTAGTGGGTCTGAAAGA-GGTCATTTACAAAAGGACAGGTACATG  11578
+                                      ||||| |.|||||  .|.||||  ..||.|||.
+NM_008567.2     2447 -----------------AAAGACGATCATT--GAGAAGG--TTGTTCATC   2475
+
+c135876443-13  11579 ATTTCACTTA-TACGAGGTACCTGTAATGTGCAAATTCATAGAGACACGG  11627
+                     .|.||||..| |||||                            .||||.
+NM_008567.2     2476 GTCTCACACACTACGA----------------------------TCACGT   2497
+
+c135876443-13  11628 TAGGATAGAGGTTA-TCAGTGGCTGGGGGAATGGGAGAAATG----AGTT  11672
+                     |..|||.|||.|.| .||  |||||       ||..||||.|    |||.
+NM_008567.2     2498 TCTGATTGAGCTCACCCA--GGCTG-------GGCTGAAAGGCTCCAGTG   2538
+
+c135876443-13  11673 ATTTAATGGATAAAGTTGCTATTTGGGATGATGAC----AAAGTTCTGGA  11718
+                     |...||..||.|     |||||    ||.||.|||    |    .|||| 
+NM_008567.2     2539 AAGGAAGCGAGA-----GCTAT----GAGGAAGACCCCTA----CCTGG-   2574
+
+c135876443-13  11719 AAGGGATAGTGGTGACAGTTATACAA-CATAATGTACTTACTGCCACTGA  11767
+                           ||||             ||| |.||| .|||||.||        
+NM_008567.2     2575 ------TAGT-------------CAACCCTAA-CTACTTGCT--------   2596
+
+c135876443-13  11768 ACTTATACACTGAAAAATGGTTAAAATGATAAGTTTTATTATGTATTTTT  11817
+                               ||||.|.||                     |.|||     
+NM_008567.2     2597 ----------TGAAGATTG---------------------AGGTA-----   2610
+
+c135876443-13  11818 ATCACAATTTTATTTTTTTAAGGAAAAGTTATTTTGTCATCTT-ATTTCC  11866
+                                     ||.||||.||              ||| ||..||
+NM_008567.2     2611 ----------------TTGAAGGTAA--------------CTTGATGGCC   2630
+
+c135876443-13  11867 TGGCCTTATGACAGAGCTGCACTTAAGTGTGTTTCCATATGCGAGACTAG  11916
+                     .||          ||.|||                    |||        
+NM_008567.2     2631 AGG----------GACCTG--------------------TGC--------   2642
+
+c135876443-13  11917 TCTCCTGGCCTTTTTGTGGTTGTAGTC----TCCT----GGC-CTTGTTG  11957
+                     |.||||..|||           |||.|    .|||    ||| ||     
+NM_008567.2     2643 TGTCCTACCCT-----------TAGCCCGGACCCTGCACGGCACT-----   2676
+
+c135876443-13  11958 GTGTGTGTGTATGTGTTTTAGAGAGACGGGGTTTTGCTATGTTGTCTAGG  12007
+                                         |||||||.|.||                  
+NM_008567.2     2677 --------------------GAGAGACAGTGT------------------   2688
+
+c135876443-13  12008 CTGAAGCACTCCCTCCTGGGCTAAAGCAACCCTACCTCCAGCCTCCCCAG  12057
+                     |||.||||.|         |||..||.|                      
+NM_008567.2     2689 CTGGAGCAAT---------GCTTGAGGA----------------------   2707
+
+c135876443-13  12058 TAGCTGGGATTACAGGTGT--------AGGTCACCACATTGGCTCT-TGT  12098
+                           |||||.|||..||        ||.|||      ||||||| || 
+NM_008567.2     2708 ------GGATTTCAGAAGTGATGGCTGAGTTCA------TGGCTCTGTG-   2744
+
+c135876443-13  12099 TTCTCTTTTTATTTACCAAAATGG---AGTGTTTATGATTGGTTACTTGT  12145
+                              .||||  ||.|.|||   ||       |.||||..||    
+NM_008567.2     2745 ---------AATTT--CATACTGGGACAG-------GCTTGGGCAC----   2772
+
+c135876443-13  12146 TCTGTCTATACCTTTGGCAGTTTCACATTTTCCTG-ACTCTTG--GTTGC  12192
+                     ||||||.|||     |||           |||.|| |||.|||  ||||.
+NM_008567.2     2773 TCTGTCAATA-----GGC-----------TTCTTGTACTATTGAAGTTGG   2806
+
+c135876443-13  12193 AAGC------TG-TGTTTTGAAGGCTAT--GACTAAAATTT---------  12224
+                     ||.|      || |||||      ||||  |||    ||||         
+NM_008567.2     2807 AACCAAATCATGTTGTTT------CTATAAGAC----ATTTCTTCATGTA   2846
+
+c135876443-13  12225 TAG-----GCCTGATGC------------TTTATCTTTG--AACTCTTCC  12255
+                     |||     |||||.|||            |.|.|||.||  ||   ||.|
+NM_008567.2     2847 TAGGAAAAGCCTGCTGCATTTGTCATACATGTGTCTGTGGAAA---TTGC   2893
+
+c135876443-13  12256 ATCCTTGTCTTCC------------ATACTCAATTAGGATTATGGTAAGA  12293
+                     .|.|||.|.||||            .|||.|          |||..||.|
+NM_008567.2     2894 TTTCTTCTGTTCCCAGCCACTGCTTTTACCC----------ATGAAAATA   2933
+
+c135876443-13  12294 ACTCAACCTTTTTTTATCTTTTTTTATTCT---ATTTTATTTTGAGACAG  12340
+                     |..||||                ||.||||   |||.|.|.|||     |
+NM_008567.2     2934 AAACAAC----------------TTGTTCTGTGATTGTCTGTTG-----G   2962
+
+c135876443-13  12341 AGTCTCACTCTGTCGCCCAGGCTGGAGTGCAGTGGCGTGATCTCAGCTCA  12390
+                     |.||                                              
+NM_008567.2     2963 ATTC----------------------------------------------   2966
+
+c135876443-13  12391 CTGCAACCTCTGCCTCCCGGGTTCAAGCGATTCTCCTGCCTCAGCCTCAC  12440
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  12441 GAGTAGCTGGGATTGCAGGATTGCCCCACAACACTCAGCTAATTTTTGTA  12490
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  12491 TTTTTAGTAGAGATGGTGTTTCGCCATGTTGGCCAGGCTGGTCTTGAACT  12540
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  12541 CCTGACCTCAAGTGATCCATCCGCCTTGGCCTCCCAAAGTGCTGAGATTA  12590
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  12591 CAGGCATGAGCCACTGCATCCGGCCCTTTTTTTCTATCTAAATATAAGTC  12640
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  12641 AGAGAAGTTTTGTTTGTGGAAGGGATTTTTAGTTTTCTACCTGTTTTGTT  12690
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  12691 TTGTTTTGTTTTGTTTTGTTTTGTTTTGTTAGGGTCTTACTCTTGCCCAG  12740
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  12741 GCTGGAGTGCAGTGACAGCATACATTGCCTACTACAGCCTCAACCTCCTG  12790
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  12791 GGCTTAAACGATTCCCCACCACAGCCCCGAAATTAGCTGGGACTACAGGC  12840
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  12841 GCCTGCCACCATGCCCAGCTAATTAAAAAAAATTTTTTTTTTTAGAGATG  12890
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  12891 GGGTTTTACCGTGTTGCCTGGGCTGGTCTCAAACCTCTGGGCTCAAGCAA  12940
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  12941 TCCTCCCGCCTTGGCCTTCCAAAGTGCTCGGATCTTCCAGAGTGATCAGA  12990
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  12991 TTACAGGCATAAGCCACCACACCCAGCCTAATTTTCTGCTTTAAGGAATG  13040
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  13041 CCTTGTGTAACTTTGCATAGCACTTTGTTGATGGAGTTCAGAGAGTCGAC  13090
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  13091 AGTTCCACAGAAAAATGTTTCTTTTAATAGCACAGTGTTCTTTTTTAAGA  13140
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  13141 AAATTGTTTTTCCTTCTTATTGGATTTATGAACTAAGCAGCTGTAAATTG  13190
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  13191 CATTCAGCATCTTATTTAATCCACATGAATTCAGTTAACATATATTTATT  13240
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  13241 CAGTGCTGGTCACTGTAGGTGATAGAAAAGTGTTATGAACCATTTCCTCA  13290
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  13291 AACTCTTCACAGAACTATAAGAACTGGCATTAAAAAGGACTAGCAAATGT  13340
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  13341 GGTAGGCCTTGGTGGACATAGTTCATTTATCAGGAGAGATCTTTGAGGGC  13390
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  13391 TAAGGCATTGGGTAAGGTTTTGTGTAGGAAGTAGGACTCATGGACAAGTA  13440
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  13441 AAGGCTCTTAGGATGGTGAGCACTGGCACGGTGACATCTGTGGTGTAGGA  13490
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  13491 GAAAACATTGGAACAGTGGTTTAGGTGACTAAGTCCACAGAACAAGAACC  13540
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  13541 AAGATCGGAAGCCAGGTGTTATTACTCCAGTTTTATGCTTTGCTTTAGCT  13590
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  13591 GACTCTGCCTTTCGGTTGGTAAACATGCCTTTACTGTTTCTTCTGAAAGT  13640
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  13641 GTTTAACTTCATGTTGAAAAATTAGTTTTTCATCTGTAGCTTCTTTTCAT  13690
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  13691 TTCAGGCAATGATGAAGTAAAACGGGGTGTCCTGCTGATGCTCTTTGGTG  13740
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  13741 GCGTTCCAAAGACAACAGGAGAAGGGACCTCTCTTCGAGGGGACATAAAT  13790
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  13791 GTTTGCATTGTTGGTGACCCAAGTACAGCTAAGAGCCAATTTCTCAAGTA  13840
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  13841 AGCGTTTGCCTGATACAGTGTTGCAGGAAAAAGTGTACATAGTTCCCAGG  13890
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  13891 CTGGCTGTGCTACCAAGAATGCAGTCAGTATGGCCTTACTAGGAGTGTAA  13940
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  13941 ATTATGACTATGTTGAATATATAATTCTCATAGATTAAAGTTATGGCAAC  13990
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  13991 ATTGTACAATTTTTTAGAATAGGGAAAAATTGCCTGTAATACCAATCTCA  14040
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  14041 CATTGAACTGTTTAGTCTTTGTATAATATCTTTGTAAAATATATTTGTAT  14090
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  14091 AAAATTTTATACAAATTTTATTATTTGTATAAAATTTTATACAAATTTTA  14140
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  14141 TTATTTGTATAAAATTTTATACAAATTTTATTATTTGTATAAAAATATGA  14190
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  14191 ATTATGTATTTTCATTATTGTAAATCATATTATACATACTTGTAATTTCA  14240
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  14241 ATTTTCTATAAACATTTTTTCCATGTTTCTTTTCGCATGGAAAAATCTCA  14290
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  14291 TGAGTTTGTCATTTTCACAATTGTCTTTTTTTGTTGGTATACTATAGCTT  14340
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  14341 ACAAAATCATTTTCTTAGCCCTGTTAAATTTAACAGGATAGTTTATTATA  14390
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  14391 ATAATTACCGATATAGATGCAGTGAACATCATAATGTTATATACATTTTT  14440
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  14441 TGTTTGTTTCCTCTGGGTAAATTGCTAGATACAGGATTGTTGAGACTAAG  14490
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  14491 AATACAAACATTTGTAAGGTTTTAAAATAGGATGTACTGGCCGGGTGCCA  14540
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  14541 TGGCTCACGCCTGTAATCCCAGCACTTTGGGAAATCAAGGCGGGCGGATC  14590
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  14591 ATGAGGTCAGGAGATGGAGACCATCCTGGCTAACACGGTGAAACCCCGTC  14640
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  14641 TCTACTAAAAATACAAAAAATTAGCCAGGTGTGGTGGCGGGCGCCTGTAT  14690
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  14691 ACAGTCCCAGCTACTTGGGAGGCTGAGGCAGGAGAATGGCGTGAACCCAG  14740
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  14741 GAGGCGGAGCTTGCAGTGAGCCGAGATTGCGCCACTGCACTCCATCCTGG  14790
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  14791 GCAACAGAGCAAGACTCCGTCTCAAAAAAAATAAAAATAAAATAGGATGT  14840
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  14841 ACTTTCCAAAGGGAATGCTGCTATGAGATATTTTATGTTAACTTTGTCAG  14890
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  14891 TGTGAACACAATTTTTGACTGTTTTTAGAAGCTATAATAAATATTTGATT  14940
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  14941 ACTTTCAAACTTTTAAGAAACTTAGGGCCCAAAATAAAAGCAACAAGTTT  14990
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  14991 CTGAGCACCTGCCATGTTCTCAGTGCTGTATATGTGTTATGTCTTACTCT  15040
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  15041 AGCAGCACCCAGACAGGCATGTGTATTATTCCCTTTTTTTTTCAGAGAGT  15090
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  15091 CACAACCTCTCCAAGCCTACAAGAAATTTGCCCACTTTCTTGTAGGTGAA  15140
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  15141 AGGTGACACCGAGCCATGAATATTAAAATTCAGATACAGTTGCCTGCAAA  15190
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  15191 ACATGTGTACTTCATACTACATCAAGCTGCCTTTTCTTTGTTTTGGAAAT  15240
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  15241 TTGTAGCATAGTACCATTTTAGAATATTGAACATTTTTAGTTGGTTTGGA  15290
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  15291 GTTTTATGATTAAATATTTCTTTTGAACATATCACAGACTGAGTTTTAGA  15340
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  15341 TTTTAAGATAGTAGTCCTGTGTTACAAAGGATTCTTTTTTTTTTCTTGTC  15390
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  15391 ATTCTTTCTCCCCCCTCAAAAAGAAAGATGTACTACAATGTTGCCTCTGG  15440
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  15441 TAACAGTGTCATGTGGTATGTGACAGTCTTAGTGGATTCCATAGCATTTT  15490
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  15491 CTATGTATAAAATCTGTATATAATGATAGTCGGAGTATCCCATCTGGCTG  15540
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  15541 CCTTTTTTTCTTGCCTAATTGTCCTTGATTAGAGCCATCAGTATAATGTT  15590
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  15591 GAATAGAAGTGGCAAGAGCAGACATCCATGTCTTATTCCTGATCTTAGGG  15640
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  15641 GCAAAACATTCAGCCTTTCACCTTTAAGTTTGATGTTATCTGTGGGTTTT  15690
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  15691 CATAGATGCCCTTTGTCAGGTTAAAGAAAAAACCCTTTATTAGACTTAGG  15740
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  15741 AAAACCTCCTCTATTCCTGGTTTGTTTGGTTTTTGTAATGAAAAGGTGTT  15790
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  15791 GGATTTTGTCAAATGCTTTTTCTACATCTGTTTAGGTGGTCATGTAGTTC  15840
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  15841 TTTTATTAATTTAGCATATTGATTGATTTTCAGATGTTAAACCAATCTTG  15890
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  15891 CATTTCTGGAATAAGCCCCATATCTAGTTTTGTTTTGTTTTATTTTTAAT  15940
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  15941 TGCAAGACCTTCTGATAGATGATTGTTGCTGTTTATTACTATTAAAGACT  15990
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  15991 TCTTTTAAAATTGATGTTTTAGCTGGGCGCGGTGGCTCACGCCTGTAATC  16040
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  16041 CCAGCACTTTGGGAGGCTGAGGTGGGTGGATCATGAGGTCAGGAGATCGA  16090
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  16091 GACCGTCCTGGCTAACACAGTGAAACCCCATCTCTACTAAAAATACAAAA  16140
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  16141 AAAATTAGCCGGGTGTGGTGGCGAGCGCCTGTAGTCCCAGCTACTCGAGA  16190
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  16191 GGCTGAAGCAGGAGAATGGCATGAACCCAGTAGGCAGAGCTTGGAGTGAG  16240
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  16241 CCAAGATCAAGCCACTGCACTCCAGCCTGGGTGACAGAGCAAGACTCTGT  16290
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  16291 CTAAATAAATAAATTAATTAAATTAAAAAATAAATAAAATTGATGTTTTA  16340
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  16341 GGCTAGGTGTGGTGGCTCACGCCTGTAATCCCAGCACTTTGGGAGGCCAA  16390
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  16391 AGTAGGTGGATCACCTGAGGTCAGGAGTTCGAGACCAGCCTGGCCAACAT  16440
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  16441 GGTGAAACCCCATCTCTACTAAAAATACAAAAATTAGCCGGGCATAGTGG  16490
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  16491 CGCACACCTGTAATCCCAGCAACTCGGGAGGCTGAGGCAGGAGAATCGCT  16540
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  16541 TGAACCCATGTGGCAAAGGTTGCTGTGAGCTGAGATCACACCACTGTACT  16590
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  16591 CCAGCCTGGGCGACAGAGCAAGACTGTGTCTCAATTAAAAAAAATTGATA  16640
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  16641 TTTTTATCAGGTATTAACTCTGAAAATACAAAAATTAGCCAGGCGTGATG  16690
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  16691 GCCCACACCTGTAATCCTAGCTACTCGGGAGGCTGAGGCACGAGAATCGC  16740
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  16741 CTGAACCTAGGAGGTGGAGGTTGCAGTGAGCTGAGATTGTGACACTGCAC  16790
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  16791 TCCAGTCTGGTGACAGAGCGAGACCCTCTCAAAAAAAAAAAAGAAAAGCC  16840
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  16841 GAGGGAGAGAAACCTTCCCATTTAGTCTGTGGCATGTGTCTTCATGAATT  16890
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  16891 GCTTAAGCTCTCAAATGTTCTTTCAGTAATTTAAACTCTTCTGCTGGTTT  16940
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  16941 TCCTGGGAAGGGTGCTGTATAATCACATATTAATGAGTCTTTATGTGATA  16990
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  16991 ACCTTGAACAGGCACGTGGAGGAGTTCAGCCCCAGAGCTGTCTACACCAG  17040
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  17041 TGGTAAAGCGTCCAGTGCTGCTGGCTTAACAGCAGCTGTTGTGAGAGATG  17090
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  17091 AAGAATCTCATGAGTTTGTCATTGAGGCTGGAGCTTTGATGTTGGCTGAT  17140
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  17141 AATGTAAGAACATTTTACACTCTTCAGTATAAAGAAGTCAGAATACCCCT  17190
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  17191 ACCCTATCAGTAAAGGCCTATAAGTTACCATTAAAAAGATGTCCTTAAAA  17240
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  17241 ACAGCATTCTCAGCTGGGCGCGGTGGCTCACACCTTTGTCCCAGTACTTT  17290
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  17291 GGGAAGCCGAGGTGGGTGGATCACCTGAGGTCAGGAGTTCGAGACCAGCC  17340
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  17341 TGGCCAACATGGCGAAAACCCATTTTCTCTACTAAAAATACAAAAATTAG  17390
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  17391 CCGGGCATGGTGGCGGGTGCTTGTGGTCCCAGCTACTCAAGAGGCTGAGG  17440
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  17441 TGGGAGGATCACTGAGCCCAGGAGGTGGAGGCTGCATTGAGCCAAGATTG  17490
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  17491 TGCCACTGCACTCCAGCCTGGGTGACAGAGCGAGACTCTGTCTCAAAAAA  17540
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  17541 ACCAAAACAAAAAAAACCCAGCATTCTTTAGTAAATAATTCATAGTTTTC  17590
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  17591 TTCATCTAGAATTTAAAATTGTGATAGTTGATCAGCATGTCCTGAGCACG  17640
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  17641 TGTGTTTGCTGTTACTAGTTTAGATCGGTAGATGTGTATATAAGTTATAG  17690
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  17691 GTATAAAATCAATCCTGAGTTGACACAAGGTTTTGATGTTGAGTACAAGT  17740
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  17741 ACAGTAAGTGTATATTTTTAGTTATGCTCTTAGTTTTAAGTCAATTGTGT  17790
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  17791 GGTTCTTTCTAGCTTTAGGATCTGTTGAATTATCTTCCTTAGAAAAGGGA  17840
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  17841 GTTAAGAATCTTCACTTACCTATCTTCTACTTGTTTGGAGAATAGAAGAG  17890
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  17891 TCCCTGTGGTAGCAGACTTTGTGAGTTTACTTGTAATTTTCCATCTGAAA  17940
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  17941 GACTGTTCTTGTTTTTCGTGATGAAGTCTTGCTCTGTCGCCCAGGCTGGA  17990
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  17991 GTGCAGTGGTGCAACCTTGGCTCACTGCAACCTCTGCCTCCCGGGTTCAA  18040
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  18041 GCAATTCTCCTGCCTCAGCCTCCCGAGTATCTGGGATTACAGGTGCACAC  18090
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  18091 CACCACACCTGGCTAATTTTTGTATTTTCAGTAGAGACGGGGTTTCACCA  18140
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  18141 TGTTGGCCAGGCTGGTCTCGAACTCTTGACCTCATGATCAGCCCACCTCA  18190
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  18191 GCCTTCCAAAGTGCTGGGATTACAGGTGTGAGCCCCCACACTCGGCCGTT  18240
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  18241 GTTGTTTTTTAAGAGACAGGGTCTCACTCTGTCACCTAACCTGGAGTACA  18290
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  18291 GTGGCAATCATGGCTCACTGTAACCTCAAATGCCCGGCCTTAGTGAAGCG  18340
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  18341 TTCTTCCTGCCTTGGCCTCCCAAAGTGCTGGGATTACAAGTGTGAGCCAT  18390
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  18391 GCATCCAGCTTGAAAGACAGCTTCTTAGGCTTGATTTGTTTGGTTACAGG  18440
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  18441 GTGTGTGTTGTATTGATGAATTTGATAAGATGGACGTGCGGGATCAAGTT  18490
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  18491 GCTATTCATGAAGCTATGGAACAGCAGACCATATCCATCACTAAAGCAGG  18540
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  18541 AGTGAAGGTATGTGTTATCTACTTCTGTTCTGCTGCATCGTCCATAGCCT  18590
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  18591 TGTTGATTAATGTAGTACTAGAGAAGTTCACCTGGATAAAATTCATTACT  18640
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  18641 TCAGTGTGTAATGCTGTTCATTAAAATGGAAAATACAGCCCTGAGAATTA  18690
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  18691 TTTATTGAAACTATAAATGTTGTTTAGAGTACTGTGTAAATGTATTGCCA  18740
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  18741 TGATAATAGAGGAAAATGTCCATGAACAAAGCTTTTATTTTCTTTGATAA  18790
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  18791 AGCATGCTCCAATTATAACAAAAATAACCAAAGATCAACAGATTGATTAT  18840
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  18841 ATATGTATATATTTATTTATATTAACAGAGTATTTAAATGAAAATAAGTA  18890
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  18891 TGACAGTATAACCAACACTAGGGAGAATCTAAACTTTAAAAGCTACAGAT  18940
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  18941 TCAAGTAGCTTTTAAGCAGTACACAATTGTAAATTGAAAAGACAACTCTT  18990
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  18991 TCCCTGCAACTCCCAGCAACAGTAGATACTTAGAGGTATCTAATGGATAA  19040
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  19041 AAAGGAATTTTAGGAGGAGGAAAATAAGGCATCTATTGAGTTTGTGCCCC  19090
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  19091 TTTTAGGAATATTTTGTACATAAGCATAATACTGACAATTTCATTCCTGC  19140
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  19141 TGGTTTAACTTCATAATTTTATTTTGGCAATCTTTTACCAGCACATATTA  19190
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  19191 GATCAACTTTGGTTTTTTATTAATTTCCCATATTCAATTGTGTATACCAC  19240
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  19241 AGCTTGATTCTTTAGACTCCTGTTGAGTGACATTTGGTTCATTTTCAGTG  19290
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  19291 TTTTGTATTACAAACAAAATTGTAGTAAGCATCCTTGAACGCAACATCCT  19340
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  19341 TTTATATTTGGCTATAAGAGAAATTTCTAACAAATTGATGTCTTCAATGG  19390
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  19391 TGTGCACATCATACCACCAAAATCACATAGGAGTTCCTGTTTATGTGAAA  19440
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  19441 AAGGGTATGTCATTATTTTGGTTTGTGTTTAGTTAATTATGGGTGAGATT  19490
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  19491 GAACATGTTGTTATATATTTATTGGCTGATGTCTATTTAAATCTGTTAAG  19540
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  19541 ATTCTTTCTTTTGTGGTCAGGCTACTCTGAACGCCCGGACGTCCATTTTG  19590
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  19591 GCAGCAGCAAACCCAATCAGTGGACACTATGACAGATCAAAATCATTGAA  19640
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  19641 ACAGAATATAAATTTGTCAGCTCCCATCATGTCCCGATTCGATCTCTTCT  19690
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  19691 TTATCCTTGTGGATGAATGTAATGAGGTAACCCCATGAGCTTCCTTTTTT  19740
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  19741 ATTTCCAGTTGGAGTAATCGAGTGAGACAAGGCTGGAAGATACACTGCTC  19790
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  19791 AACAGCTGGTGCATGTATGTGCACCAGCCTTTGATTTCCCTCAGGGTGGC  19840
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  19841 ACAGGATCGGACAAAGGGTTTAGTAAGCAACTCAAAATAAAGTCATTTGA  19890
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  19891 ATTGCCTCTTCCACTTAATTGTGTTCAAGAATTAAGTTTTCAGGTTTTGT  19940
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  19941 TACTATTTATTTCTCAAAAGGAAACAAGTTACAGTTAACTTCCAACCACA  19990
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  19991 CTTTTTATTTTTTTAAACAGCCTCTCACTGGAGACTGGGCTGGAGTGCAG  20040
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  20041 TGGCACAGTCTTGGCCTACTGCAACCTCCACTTCCAAGGTTCAAGCGATT  20090
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  20091 CTTGAGTCTGAGCCTCCCAAGTAGCTGGGATTACAGGCATGTAACACCAT  20140
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  20141 GCGTGGCTAATTTTTATATTTTTAGTACAGACAGGGTCTCACCATGTTGG  20190
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  20191 TCAGGCTGGTCTTGAACTCCTGGCCTCCAGTGATGCACACCCACCTCAGC  20240
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  20241 CTCCCAAAATGTTGGGACTATAGGTGTGAGCCACTGTACCTGGCCCCAAC  20290
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  20291 CACACTCTTAAGATTTTTATACAATTTTTTGTTTTGTTGATTGGGCTTTT  20340
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  20341 ATTTTATTTTTCAGTCACCTTGAAAAAAACTGGGATGCCAAAGAAATTTC  20390
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  20391 TTTTCTTCTTCTTTTTTTTAATCATGAGTCATTTATCTTTGTATTTTTTC  20440
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  20441 CTATCAAGTTGCTGAATGTATTTTACCTTTTTTTCTCACTTTTAAGATTG  20490
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  20491 AGTGAAAAAATGTAGATTTACTTGGATTCTGATATGTTAGTTTAATTATT  20540
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  20541 AGAGTTATGTGTACTTAAATATTTAATAATGCACTTCAGATGCCCACAGA  20590
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  20591 ACTATAAAATGACAGTTTGTAGGAACTAATATTTTAGGCTGTACTTTTTA  20640
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  20641 AATCATTCAGCATTGAGGTTCTACATTTTATTGGGTACAGTGCACAGCTC  20690
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  20691 TTTGTTACAGTGGAACTTTAAATATTATCTAAATAAAAGTAGCCTTCCAT  20740
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  20741 TTTGTGAGTGTTTGGAGGGCTTGGATTTTTATTTATTTATTTTTTAAAGA  20790
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  20791 CAAAGTCTTACTCTGTCACCCAGGCAGTGCCACAGTCATAGCTCACTGCA  20840
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  20841 GCCTCAATCTCCTGGGTTCCAGTGATCCTCCTGCCTCAGCCTCCCAAGTA  20890
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  20891 GCTGAGACTACAGCTCTGTACCACCATGCCTGGTTAATTTTTTCATCCTT  20940
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  20941 TTGTAGCAACGGCAACAAGTTCAAGACCCGTGTTGGTCTTGAACTCTTGG  20990
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  20991 CCTCAAACCACCTTACCACCTCAGCCTCCTGAATAGCTAAGATTGTAGGC  21040
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  21041 CTGCACCATCACACCTGGTTTGGTTTGGTTTGGTTTGGTTTGGTTCACTT  21090
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  21091 TTTTTCCCTTCACAAGAGAGACATATTTAATTACCAGATAATTGAGTTGT  21140
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  21141 CTGATTTTCATACATTTATGTTTGTTCATGATTCATTAAAGTAGCTTTAG  21190
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  21191 TAGCAGATCAAGTTATAAACCTTTAAAAGATCAATTTATAAACCTTTAAA  21240
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  21241 ACATTCAAGATTTTTTTAAAACTGTTTTCTTTAGTTTTGTTTTGTTTTGT  21290
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  21291 GACGGAGTCTCACTCTGTTGCCCAGACTGGACTGCAGTGGCACAATCTTG  21340
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  21341 GCTCACTGCAACCTCCGCCTCCTAGGTTCAAGTGATTCTTCTGCCTCAGC  21390
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  21391 CTCCTGAGTAGCTGGGATTATAGGCGTGTGCCACCACGCCTGGCTAATTT  21440
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  21441 TGTGTATTTTTACTAGAGACAGGGTTTCACCATGTTGGCCAGGCTGGTCT  21490
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  21491 CAAACACCTGACCTCAGTTGATCCACCGACCTCAGCCTCCCAAAGTGTTG  21540
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  21541 GGATTACAGGTGTGAGCCACCGCGCCCGGCTTGTTTTGTTTTTGAGACAG  21590
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  21591 GGTCCCACTCTTTCCTGCAGTGGCGTGATCATGGCTCACTGCAGCCTCAG  21640
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  21641 CCTCCTGGGCTAACACAATCCTCCCACCTCAGCCTCCCGAGTAGCTGGGA  21690
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  21691 CCACACATGTACACCATTGTGTCTGGCTGACTTTTGAGTTTTTTGTAGAA  21740
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  21741 ACAGGATTTTGCCATGTTGCCCAGGCTGGCTGCAAACTCCTGAGCTCAAC  21790
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  21791 CAGTCTGCCCACCTCAGCTTCCCAAAGTGTTGGGATTATAGGCATGTGCC  21840
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  21841 ACCATACCTGGCCAAAAAGCCTTTTCTTTTTCTTTTTCTTTTTCTTTTTC  21890
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  21891 TCTTTTTTTTTTTTTTTTTTTTTTGAGATGGAGTCTCGCTCTGTTACCCA  21940
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  21941 GGCTGGAGTGCAGTGCTGCCGTCTCACCTCACTGCAACCTCCGCCTCTCA  21990
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  21991 GGTTCAAGTAATTCTCCTGCCTCAGCCTCCTGAGTAGCTGGGATCACAGG  22040
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  22041 CGTGTGCCACCATGCCCGGCTAATTTTTGTATTTTTAGTAGAGACGGGGT  22090
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  22091 TTCACTTTATTGGCCAGGCTGGTCTCAAACTCCTGACCTCAGGTGATCCC  22140
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  22141 GTCTTGGCCTCCCAACGTGCTGAGGTTACAGGCGTGAGCCACCGGGCCCA  22190
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  22191 GCCTGTTTTATTTTAGTTATTTATTTTGAGACAGGGTCTGGCTGTATTGC  22240
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  22241 CCAGGCTGGAGTGCAGTGGCATGATCTCAGTTCACTGCAACCTCTGCCTC  22290
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  22291 CTGGGCTCAAGCCAGCCTCCCACCTCAGCCTCCTGAGCAGCTGGAACTAC  22340
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  22341 AGGTGCAGGCCCCCATGCCCAGCTAACTTTTGTATTTTTTGTAGAGACCG  22390
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  22391 AGTTTTGCCGTGTTGCCTGGACTGGTCTTGAACTCCTGAGCTCAAGCTAT  22440
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  22441 CCACCAGCCTTGGCCTCTCAAAGTGCTAGGATTACAGGCATGAGCCACTG  22490
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  22491 TGTTCCGCCCAGACAACTTCTTAATTAGAAATAATTTCAAGCTTACAGAA  22540
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  22541 AAGTTGCAAGAAATGGAATAGTGCATAGAACACCCATATACCCTTTACGT  22590
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  22591 GATTCACATAATAACATTTTACCCTGTTTGCTTTATTGCTTACTGTCTGT  22640
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  22641 ATATATCTGCACACTTTTTTCCTGAACCATTTGAGAGCAAGTTGCATATT  22690
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  22691 TTGGGGTCTTTTTTTTTTTTCCAGTATTCTGGGATGAATATCTTCAAAAT  22740
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  22741 TTAGTGGCTAAGAGCACAGTCTCTGAAGCTAGACTATTCAAATCCTGGCT  22790
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  22791 CCACTACTTAACTGTGACCTTGGATAAATTACTTAACCTTCCTAGGCCTC  22840
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  22841 AATTTGCCCATGTATAAAATGGGGATAATATCATTTACCTAATAAAATTT  22890
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  22891 TTGTGAGGATTGCATAAGTTAATTCTTCTAAGACCTGCCTAAGAGAACAG  22940
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  22941 TGTCTCATACACTGAGGGCCCTATAAATGTTAGTTCTGCTATTTTTGTTG  22990
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  22991 TTTTGTTTTTGAGATAAGGCTTACTCTGTTGCCCAGGCTGGAGTGCAGTG  23040
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  23041 GTGCAATCATGGCTTCACTGCCCCTTCAACCTCCTGGGCTCAAGTGATCC  23090
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  23091 TCCTGCCTCAGCCACCTGAGTAGCTGGGATTACACATGTGCACCACCATG  23140
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  23141 CCCAGCTAGTTTTTTTGTAGAGACAGGGAGGGTCTCAGTTTGTCGCCCTG  23190
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  23191 ACTGGTCTCAAACTCTTGACCTCAAGCTCTTCTCTCACATCAGTCTCCCA  23240
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  23241 AAGTGTTGGGATTACAAGTGTGAGCCACTGCACTTTACCCTACTATTGTT  23290
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  23291 TTTAAAGCCAATCAATTCCTTCAGGTATAGTTTTAGAGTGGGGCAATGGT  23340
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  23341 ATACATTTAAACGTTTGATTTTAAATCCACCTGTTCCCAAACTTTCATCA  23390
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  23391 GAAACTTGGTACCCATTAATACTTCTTTAAGTGGTATATTAGAGCTTGTT  23440
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  23441 TTTGGCGATAAATCATTTCTTATTGCCTGGGATAGTCTGGAGAAGATATT  23490
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  23491 GCTGTGACTATCAAAGTGATTTTTTTGTTTTGAATTAGGTTACAGATTAT  23540
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  23541 GCCATTGCCAGGCGCATAGTAGATTTGCATTCAAGAATTGAGGAATCAAT  23590
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  23591 TGATCGTGTCTATTCCCTCGATGATATCAGAAGATATCTTCTCTTTGCAA  23640
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  23641 GACAGTTTAAACCCAAGGTAACCTACCCTTTTGTACTGGGATAAGGTATA  23690
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  23691 ATGGGTATATTAAAGTGGAATTTAAGTAAGTGTGTTATATGGAAATTAAC  23740
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  23741 TGAACCTGTCATCTACCTTAGTTCCTAAATTTTACAACTTTTTTTTTTTT  23790
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  23791 TCTGGAACAGCAATTTGTTTTTTCAGAGAGGGCTGAGAAAGGGAACTGTA  23840
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  23841 AAAAAAATTCTGAATAATTCCATTATTTGTTTGGTGGTAATAAAAAGATT  23890
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  23891 TGTATGGGAGAAGAGTTTTGGATAACTGGATAATCTAGAACATTCTTTTA  23940
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  23941 TTTCAAACATTACTAAGAACGTTAAAATTGTTTATGCGCCTAAATCAATA  23990
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  23991 GTTGAATCTTTCTTTGAAGGAAACATTGGATTCATCTAGGCCATTATGAT  24040
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  24041 AAATATAAATTACTGTTTTACAGTGATTGATGCATTGTATTGGACTAACT  24090
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  24091 CTGTTCTGGACCCAGGATTCTTACCTGGACATAAACCCCCAAATGCTTGG  24140
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  24141 CATTTTCCCAAAATAGGGTATGAAAAGGAAAAAAAATACTCATTCTGGTT  24190
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  24191 GAGATTTTCACACTGTTGGCTAACTTGACTTCTGGAAGGTGTTACTAGGT  24240
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  24241 ATTGATCATTTATCATCTTCACTTGATTATTCATGAGATTGCAGTTGGCT  24290
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  24291 CTCACTGTCCCAAAGAAATTTAATCATTTAAAACTAAGGATTATGGGTGA  24340
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  24341 TTCTTGTGTAAAAAAGAGCATCTGTTCTCCATTACTGCATACTGATATAC  24390
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  24391 TGATCCCTCTGTAACCTTGGCATGCTTCCTTAATATGGTGAATTCCTTGC  24440
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  24441 TCTGAAAAGCTGAGGATCCTTTAGATATAAAGTTTATTGAAACAGCTTTT  24490
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  24491 TTTTCCCTGCAAAGAGTGTGAGTTAATTAATTGAGCCTCAAATACTGAGC  24540
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  24541 ATTAATTTATTTAATGAGCACTGACATCCTGAGGTGTAAAAGACATTACA  24590
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  24591 TCTTGTTCCATTGCTTCAGCTTGTTAAGCAGCTTTTAGAAATGGTCATTT  24640
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  24641 GCTTAAATACTAAGCCTTTTTTCAGGTTCATAAAATTAGTAACATGGAAT  24690
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  24691 TCACAAGCCTCCTTAATATTAGTTTCTTTTGAAAGACATTACAATAGTAA  24740
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  24741 TTTATTGTCACTGGCTTCTCAAAGTTTCAACCCTCTCAGGTTCCCTAAAT  24790
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  24791 GTTTCCACCTGGAAGGCTCTTAAACTTAGGTTTACCGTAGCTCTCATCAA  24840
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  24841 ATAGAAATGTTTCTCTAACTTGAGTGATGATCTGAAACAGATTTCCAAAG  24890
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  24891 AGTCAGAGGACTTCATTGTGGAGCAATATAAACATCTCCGCCAGAGAGAT  24940
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  24941 GGTTCTGGAGTGACCAAGTCTTCATGGAGGATTACAGTGCGACAGCTTGA  24990
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  24991 GAGCATGATTCGTCTCTCTGAAGCTATGGCTCGGATGCACTGCTGTGATG  25040
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  25041 AGGTATCAGAGTCACTTTGATATGATGAGAGCAGAGATAAACAGATTTGT  25090
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  25091 TGCATGTTTTTAATCTTTGGTATGGGACATACTAGAATTCACTGCAAATA  25140
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  25141 CATTTTTATGTAACTGTTGAATGCTCATACGACCATGGAATTCTTCCCTT  25190
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  25191 TAAAGAGCTTGGTAAGCATTTGAGTGTAGTTGTTAGACGGAGACGATCAC  25240
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  25241 GTCATAGTTTATAGAGTGCATAAAGACGTAAGTTACCATTTAATACCTTT  25290
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  25291 CATTCAGGAAAAATGTACTTAGACCCTACAATGTACTAGTAGGCCTCTGC  25340
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  25341 GCTGGCAATACAGATAAGATAATGTAGCCCCTGGCCTCAAAGGAACTCTC  25390
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  25391 CTCCTTAGGTTGCATTTGTATAATGTTTGATTTTTAGATTGTTCTTTGAG  25440
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  25441 CCCTGCATTCCACGAGGATAGGTCAGTGGGTATTAACGAGGTAAAAGGGG  25490
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  25491 AGTAGTACGAAAGGGCATTCAAGCGTCCCATCTTCGCTTCAACCAAAGCA  25540
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  25541 GCCCTGCGTTTTCCTAGTTTTATTAATAGGTTTGATGTAAGGTCGTCTTT  25590
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  25591 GAAAAGGGGGTTTGGCTTTTTTTTACAGTGTGACTGAGGTATAATTTATA  25640
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  25641 AAAAGGGAAATGTATGGCATGGTGAGTTTTTTCACATACATCCTTGTGAA  25690
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  25691 TACCCAGCTCAAGATCCAAAACATTTCCATAATTTCAGAAAGTTCCAAAC  25740
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  25741 CCCTGCCTCTTTTCAGTCTTAGCCCTCTTCCCCTGAAGTAACCACTGTTC  25790
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  25791 CGACTTCAATCACTACTTTTATCCCACAGGTTAATTTTTTGGCTTTTTTC  25840
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  25841 CACTAAATTTTCAAATTCTTTGATATGGTACTTTACTATTGACGAAGTAC  25890
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  25891 TTTCACACTAGGTTATTTAATATTCTTTGATTCACCCAATATTTAGGGAA  25940
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  25941 CACCTGTAGGGGACAAAAAATGAATGAGAGCCCCTGCCTTCCATTGCTGC  25990
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  25991 TAATCTGGTGGGAACGAGACATGTATTTAATTAAGCATGTAAAAAATAGA  26040
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  26041 GTGGGTGATGAAATAATCTATATACTAAATCCCCATGACACACAGTTTAC  26090
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  26091 CTATGTAACAAACCTGCATGTGTACCCCCGAACCTAAAATATAAGTTGGA  26140
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  26141 AATTAAAAAAAAACGAGAGGGAGAATAGAGCATCACAACCAGAGTGCTGA  26190
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  26191 GATGAATTACTTTATTACCAAAGAAGGAGGAGGACTCAGGGAGGTGCCGA  26240
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  26241 CGTTTAAACCCAGTCACTGAAGGGTGTGCAGAATTTGGATAGGCAAGATA  26290
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  26291 CCCTGGGACAAGGTCATTCTAAAACCATGCTAACATTTGTACTTTTTTTT  26340
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  26341 TCATTGTGATAGTTCCTGAAATGAGTTGCATAAAACTGGTACATGTCTTA  26390
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  26391 GGGCAGTCTCTAATTGATTTTTATTTTGTTCTATTTTTAAAAATTAGTCT  26440
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  26441 TCAAATAGCAGATTCACATGATATTAAAATATATGCACATAAATTATATA  26490
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  26491 CACAAATATATTTTCTGAATGAAATTTAGTATCTGCATATATTTAAGAGC  26540
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  26541 TATTTCTGTCTCATATGTTCATAATCTTCATCCATTAAAAAAACTTTTGT  26590
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  26591 TAGGCCTTTCTCACTCTAAGATTATAAAAAATTCTCCCATTATTTACCTA  26640
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  26641 GCTAGTTTTCTAGTTGTTCCAAAACCATTTATTGAACAATCCATCTTTTT  26690
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  26691 GACACTGGTTTGGCATGCCTTAATTATATATTCTTGTGTGTGTTAGGATC  26740
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  26741 TCCTTTTGGACTTTCCATTCTGTTCATTGAGTCTTATCAGCTCCTCTTAC  26790
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  26791 ATTGGTACCATGATGTTTTAATCTATGGGGCTTTGTAGTTTAAATGTAGG  26840
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  26841 GCTAGTTCCAGCGCATTGTTCTCTATCAGCTGTTAGGAACTTAGAAATCA  26890
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  26891 GCTTGCTCTGTTTTAAAGAAAAACCTGGTATTTTTTTATCAGTATAACAT  26940
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  26941 TCTATTTATATTAACTTGAAGAATTGAAAACATCTATGATTTTTCCTATT  26990
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  26991 CAGTAACGTATCACTTAGAATAGGTTAGGTTGTACTACTATAAAATCTCA  27040
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  27041 GCTGCATAAAACAATTTTTTTTTGCTTGTGCTACACATCCATTAGGTCAT  27090
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  27091 CAAGGGACTCACCTTGTCAAGTTACTCAGAGATTCAGGCTGATATAAAGG  27140
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  27141 TTTGATCTTGACATACGCTTTCATGATGACAGAAAGCAGGGAAGAGAAGG  27190
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  27191 TGGTGAGCCATGTGCTTTCTCCCCCTTCTATCCAGAAATGACACATACTC  27240
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  27241 ACATTTCATTCGCCAGAGAAATTAACATGGCCCCTCCTAAGTTCAAATGG  27290
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  27291 ATAGAGAAATGCCTTCCTACCAGGTGCCCAGAATTAGAAGAGCAAACATT  27340
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  27341 TGTGAACAGTTCTGAGTACCACAAATACCGTTATCTTTCCACTTAAGTCT  27390
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  27391 TCTGTTTCACTCAGTAGTGCTTTAAACTTTTCTTCATATGTTTTTCAGTG  27440
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  27441 TTTCTTGTTGAATTTCTTGATATTTTATCATGTTTGTTCGTACTGGGAGT  27490
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  27491 AGCCTTTTTTTCCATTTCATTTTCTGGCTGGTTTCATTGCTGGTTGTTTT  27540
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  27541 TTTGTTTTGTTTTGTTTTTGAGATGGAGTCTCACTCTGTCGCCCAGGCTG  27590
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  27591 GAGTGCAGTGTCACAATCTCGGCTCACTGCAACCTCTGCCTCCCAGGTTC  27640
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  27641 AAGCGATTCTTCTTTCTCAGCCTCCTGAGTAGCTGGGATTACAGGCATGT  27690
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  27691 GCCACCATGCCCAGCTAATTTTTTATATTTTTAGTAGAGATGGGGTTTCT  27740
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  27741 CCATGTTGGTCAGGCTGGTCTCAAACTCCCAATCTCAGGTGATCCGCCTG  27790
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  27791 CCTCTGCCTTCCAAAGTGCTGGGATTATAGACATGAGCCACCGTGCCTGG  27840
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  27841 CCTAGTTCTTATGGGATGTATATGTCTTTGGATTCATATGATATGTATAT  27890
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  27891 ATGTTTATATTTCTACAAGTACATACCTAGGAGTGGAATTGTTGGGTCAT  27940
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  27941 AGGTTAATGCATGTTTTTCTGCCAAACAGTTGTGTCAATTTCTGTTTTCA  27990
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  27991 CCGCTGTGAATGAGAGTTGTTCTACCTTCTTGACAACACTTGATATTGTC  28040
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  28041 AGTCATTTTAGCCATTCTGGTGAATTTATAGTGCTATTTCTGTGTGTGTA  28090
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  28091 AGAGAGAGAATGAGAGAGGGTGTTTGTGAGAAAACCAAAGCAACACTGTG  28140
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  28141 AGAGTGTGTGTGTTTGTGAGAAAACCAAAATACATACTACTGTGATTTCA  28190
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  28191 TTGGGAGAAAATCTGTTTGGTATATCAAAAAAAGTAGCTTAATTACTTCA  28240
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  28241 TCATTATTGGTTTAGGTCCAACCTAAACATGTGAAGGAAGCTTTCCGGTT  28290
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  28291 ACTGAATAAATCAATCATCCGTGTGGAAACACCTGATGTCAATCTAGATC  28340
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  28341 AAGAGGAAGAGATCCAGATGGAGGTAGATGAGGGTGCTGGTGGCATCAAT  28390
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  28391 GGTGAGATACTTGTTCATGTGACTGTTTTGGAGTTAGGGACCAAAACATT  28440
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  28441 TTCTGAGATGTCATGTGGTAGAAGTACACCTGCTGTTGGCTAATAGTCTA  28490
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  28491 TGGTAGCAAAACGGAAAAAGCAGATACTGAATTCTATTCACTGTTTACAA  28540
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  28541 GTTAAAATGAAATTAAATAGTTGATATAAAATATATATACTTGGCTGGGC  28590
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  28591 ACGGTGGCTCTCGCCTATAATTCCAGCACTTTGGGAGGCTGAGATAGGTG  28640
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  28641 GATCACAAGGTCAGGAGTTTGAGACCACCCTGGCCAATATGGTGAAACCC  28690
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  28691 CTTCTCTACTAAAAATGCAAAAATTAGCCAGGCGTGGTGGCGGCTGCCTG  28740
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  28741 TAGCCCCAGCTACCTGGGAGGCTGAGGCAGGAGAATCACTTGAACCCGGG  28790
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  28791 AGGCGGAGGTTGCAGTGAGCTGAGATTGTGCCACTGCACTCCAGCCTGGG  28840
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  28841 TGACAGAGCGAGACTCTGTCTCAAAAAATACATAGATATTTGAAAGACTA  28890
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  28891 AAAGAAAAGGCAGCAAAATGGTGATAATAGACATAAATCCCCTGGGTTTT  28940
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  28941 ACCCTTATTTGTATTGTTGTTTTGCTTCTGAATTGAAAACATTTTTTCAA  28990
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  28991 GCACATTAGAACAGAAAAATACTAGAAATTTTATTTATTTTGAGATGGGG  29040
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  29041 TCTCATTCTGTCACCCAGGCTTGAATGCCTTGGTACACTCATGGCACTGC  29090
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  29091 AGCCTTAACTTCCTGGGCTCAAGCAGTCCTTCTCCCTATCCTCTCTAATA  29140
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  29141 GCTGGGACATATGCCCACGCCACCACTCCTGGCTAATTTTTTGAGAATTT  29190
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  29191 TTTCTAGAGACAGGATCTCGCCATATTGCCCAGACTGGTAGAATTTTTTA  29240
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  29241 TTTTGTATATAATACTGCAAGTGGACTTTCAGATTGTGAAATCTTTATAT  29290
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  29291 CTCTGATCCCTCACGTTCCTCCCAAGTTAGTTTTTGTCTTTACTAGTAGA  29340
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  29341 GTTTATACATTTGCTTCTAATTTATTTGAAAATTCTTATATGCTATGTAT  29390
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  29391 AACTGTATGCATGTTTTTTTTTGTTTGTTTTTTGTTTTTTTTTATTTTTG  29440
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  29441 AGATGGAGTTTTGCTTTTGTTGCCCAGGCTGGAGTACAATGGTGCAATCT  29490
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  29491 CATCTCACTGCAACCTTTGCCTCCCGGGTTCAAGCAATTCTCCTGCCTCA  29540
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  29541 GGCTTCCGAGTAGCTGGGATTACAGGCACCCACCACCACACCCAGCTAAT  29590
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  29591 TTTTGTATTTTTAGTATAGACAGGATTTCACCATGTTGGCCAGGCTGGTC  29640
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  29641 TCAAACTCCTGACCTCAGGTGATGTGCTTCCCTTGGCCTTGCAAAGTGCT  29690
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  29691 GGGATTACAGGTGTGAGCCACTGCACCTAGCCGGTTTATTTTGTTTTTCA  29740
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  29741 TTTTTATTTTTTGGCAGAGGAGATCATGTGGGAATGTATGCTTGTTTTAA  29790
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  29791 AATTAGTGTTAAGGCTGGATGTGGTGGCCCACACCTGTAATCCCAGCACT  29840
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  29841 TGGGAGACCAAGACAGGAGGATCAGTTGAGTCCGGTAGTTCGAGACCAGC  29890
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  29891 CTGGGCAGCATAGCAAGACCCTGTCTCTAAAACAAATAATAATAATAATT  29940
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  29941 TTTAAAAGTGAAAAAAATCAGTATTAAATGTAAGTAGTGTATTTGTAAAT  29990
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  29991 GCTTGACAAGGGGATGTTAAGGGCACAAAAATAAGATTCAGGTGGTCAAT  30040
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  30041 TTTTCACTTAGGTCATGCTGACAGCCCTGCTCCTGTGAACGGGATCAATG  30090
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  30091 GCTACAATGAAGACATAAATCAAGAGTCTGCTCCCAAAGCCTCCTTAAGG  30140
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  30141 CTGGGCTTCTCTGAGTACTGCCGAATCTCTAACCTTATTGTGCTTCACCT  30190
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  30191 CAGAAAGGTGGAAGAAGGTGAGGCTTACCTGGTACTGCTTACATGCTCGG  30240
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  30241 TCACTTCTGTAAGCTCTGTTCACATAGGCCACTTGTGATTGCCAAACTTC  30290
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  30291 GTGTTGTTCTGTCGGAAGAGAGGATAAGTTGTTAGATAAACTCACTTTAG  30340
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  30341 CAAAGTAAATTTGTGGAGTATCAGCATACCTGCCAGCCTGAACATTTCTT  30390
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  30391 CACAAGCTTATTGTCAGGCAAAGCTTTGTAGGTCCTTCTTTTTAACATTC  30440
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  30441 TGGGCCTATTTTAATAATTTTGGGACCTGATAACATATGAAGCAGCACAT  30490
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  30491 ACAAATGTTTTTACAAATGCAAAATTACTATTCCCTTACAATGGTTCTGT  30540
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  30541 TTAAAACAGCTGGACCCCTAGGGTATATTTTAACAGTAATTAATTGAGCC  30590
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  30591 TAGAAATCTATACTATCAAAAGGCCATTGCAGACTAGAAATGGAGTAAAA  30640
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  30641 TCCTCATGTAGTTATTGGTAAAGTGTGGCGTCTGGACACTAGTACGCTTC  30690
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  30691 CTACCCTTAACTGCTTTACCATGCTATTCAAAGTTTTATCACCCTATAGT  30740
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  30741 TAACTACAAAGCAGAAGGAAAAATGATGAATTCAAGATGTTGAACCTAAA  30790
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  30791 CTTCTACTTGATAGTTAAGCATCAGATAATTCTTGATTAAAAGCCCCAAG  30840
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  30841 GATGGCTTGTGCTGGCTTTCTGGAATATTTTGTCATCACAGTATTTGCTC  30890
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  30891 TGCTATGAAAGAAGAGAACAAGAGATTGTAGTTTCTGCCCTTGTTCCCCT  30940
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  30941 GGGAACTTTAGACCAGTAGGAGAGAAGGCAACAAAGTGGCCACTAGGACG  30990
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  30991 CCTCAGCTTTTGTCCTCATTCGCGTCTCACACAAAATGATTTGGGAACTC  31040
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  31041 AAGGTGTTCTTGATTCATGTTATATGTCATTATTCTCTTTCTCCCTCATA  31090
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  31091 CAAGTAAGTTTTAAACACAGCAGAAGTTGAGTTTTATGATAGTTATGTTA  31140
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  31141 TCCAGGTCCAAACATTTCCTATGTGTTGAGGGTTCTTACCAGGACTTTCT  31190
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  31191 AAAAGTCTGGTAGACCTTGGACTTGTTAAAAGCAGCAGGCAGTTCACTTA  31240
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  31241 GTAAGATGAACCTTGCTAAAATAAACAGGTAATTTTTTATTTTGAGTGAA  31290
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  31291 TACTCATGAATTTTACTTCTTAGTAAACTCCAGTTCCATAAAGCCTTCCC  31340
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  31341 CTTTCTACAGAGGAAAAGTTGTTATATTTCAGAATTTTTGCTTGCTGTTG  31390
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  31391 CTTCATTCCTAATTTATGCTTTTAGTTTCTGTTGGCAAGCATTCTCAGAG  31440
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  31441 GTGGTGAAGCATAAGAAGATGAAGAAAAGACCTTCATACTTTGAAATCTT  31490
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  31491 AATAGCTTTAAGAAACATATTTCTTATAATCTATTTTATTAGGTTTCTCT  31540
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  31541 CCTTATGGATAAAATAAGGCATGCTTTAATACAAGTGATATGACTTGTTA  31590
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  31591 TTTCAGGCTTATGCTAGAACATTGCGGACCTTACGTCACCAGATGTACTT  31640
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  31641 TCGGACGGCTTGACATTTATCTAATCTGTACATTATCTCGTTGTATATGT  31690
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  31691 GGCAGAGATTTACCCAAGGACTGACAGTACGAGTTGCTAGGATAATTTGA  31740
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  31741 ATGTGTTTTTTTGTTGCAGAAGAGGACGAGTCAGCATTAAAGAGGAGCGA  31790
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  31791 GCTTGTTAACTGGTACTTGAAGGAAATCGAATCAGAGATAGACTCTGAAG  31840
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  31841 AAGAACTTATAAATAAAAAAAGAATCATAGAGAAAGTTATTCATCGACTC  31890
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  31891 ACACACTATGTAGGTGCAGAAGTGCGCGTGCTCTGGTATCAGGGAGGGAG  31940
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  31941 GGAGTTCATGCCCTGTATCTGCAGGTTCACTAGTGAAATTTTTTTTGACC  31990
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  31991 TTTGTTTGTTTTGAATCATTGGAGTGTAGTCAGAAGTATGAGTTGTAAAA  32040
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  32041 TAAGAGAGAATGAACAGCAGGTAAATGACTTATTTCCTCTGCTGAAACAA  32090
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  32091 GCAGAATTTAGGTTAAATCTCAGAAGGTGGGATTGAAGTCTTACTAGTTA  32140
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  32141 GGTGTTTTAAGCTTCTGTTTCCCATCCTCATATTTGCCCTTGGTCGTACT  32190
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  32191 GCTGTCACCTACTTTCTATGTTTCATTTTCCTCACATTCTTAGTTCCCAC  32240
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  32241 CTTACCCAACCCAATAGTCAATCTTCCATCTTACTTGCTTGGCGAAACCC  32290
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  32291 CAAACTTGGTTAAATATAACTTTTTTTTTTTTTTGTATCCTTATCTAAGC  32340
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  32341 AGCTGAAAGTATCTGGAGAAAAGCATATAATTATGAGCCCAGTCTTATTT  32390
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  32391 AAATCGATGACCAGAAATCTCAAGTGGACAGTTCTTACTGTCTCATCAAC  32440
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  32441 CTCATGACAGCACTGCCCAGTGCAATTCCTTTTCCCGGGTCAGTTCTTTG  32490
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  32491 CCTCACTCTCTCACAGGCCCATCACATACCTTCTCTCCACTCCTGTCAGC  32540
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  32541 TGGCCATTCTCAGTACTCAGCCTGTCCACAGCTTTGTCACAGTTGATCAC  32590
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  32591 TCCTACAAATAGTGTCTTCCTCACTTGGTTCTGAGTCACTGTATCCTCCT  32640
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  32641 GGGGCTTCTTTCTCACTGGTTATTCCCTCTTAGTCTCTTTCCCTGAATGG  32690
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  32691 TTTTGTTTTTTTTTTTTTTTTTTGAGACAGAGTTTCGCTCTTGTTGCCCA  32740
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  32741 TGCTGGAGTGCAGTGGCATAGCTCACTGCAGCTTCCACCTCCTGGGTTCA  32790
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  32791 AGCGATTCTCCTGTCTCAGCCTCCCAAGTAGGATTACAGGCGCCGGCCAC  32840
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  32841 CACGCCCGGCTAATTTTTTAATTTTTTTTTTTTAGTAGAGATGGGGTTTT  32890
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  32891 GCCATGTTGGCCAGGCTGATCTAGAACTCCTAACCTCAGGCGATACGCTC  32940
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  32941 ACTTTGGCCTCCCAAACTGCTGGGATTACAGGCGTGAGCCACCGTGCCTG  32990
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  32991 GCCTGAATCTTTCTCTTCTTACTTTACTCTCAGATAGTTTACATTCATTA  33040
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  33041 CCTAAGTGATCTCATTTGGTTTTATGAATTTATCCATCTACTGATGACTT  33090
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  33091 CCACATTTATGTCACCAGCTCTCACCACTCCTGTAAACTCCAGATGTATA  33140
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  33141 GAGCTGGTTGCCTACTGATGAGCGTTTAACAGGCATCTCGTGCTTAATGT  33190
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  33191 GTTCAAAAACAGAGTTGTTCTTCCCTGTTTGCAGTTGAGTTGTTCTTACT  33240
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  33241 CAATTGCTATAGGCCAAATGCCTTGGAATTGTCTTTGACTCCTTGATTCC  33290
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  33291 ACTCTCCCCTCACAGCTCCTCTTCAGCAGCAAATCCTCTGACCCCCAGCT  33340
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  33341 TCAGTGTGTGTATATTTTCTTTTCTCTTTTTACCGCCTTCACCAGCCCAC  33390
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  33391 CCAAGCCACCAGGCATGGACTGTTGCAGAAGCCTCATAAAATTGTCCTTT  33440
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  33441 TTTTGTATTGGCTTCTTGCTCAGCAGCCAGATAAGTCTTTTTAAAATATA  33490
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  33491 AATCAGATTATTTTACTACCCTCCCTTCCAGTGCTTCTCTCACATTAGAA  33540
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  33541 GGAAATTCAGCCTCCTTGTCATGGCCTGCAGAACTATTATACAGTGTAAC  33590
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  33591 CCCTGTCCCCTCATTCACCTAATTTCACAGCAGTCTTCCCCATACCCATT  33640
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  33641 TCACCCCAGTGACACTGGCCTTGATCCCTAGGCACACCAAATATGAGGGC  33690
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  33691 CTTTGCACTCACCCTTTGTCCATTTCCCTAGATATCCTCCTCCTCTCCAA  33740
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  33741 TGTCTGCTCAAATGTTACCTCTTCAAAGAAACCTTTCTTGCTAGCCTGCC  33790
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  33791 AAAATAGTAGCCTTCTGCTCTTGCTGTCACCCTGCCTTGTATTTCTTCGT  33840
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  33841 AATGTTTAACATGGCCCAGCAGTATATTCTTTATTTAAGTGGTTAGTTTG  33890
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  33891 TCTCTCTTATGGAATATAAGCTCTGTGAGGGTAGAGACTTTGCCCCGGAG  33940
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  33941 CTACAGTGGTACCTGGCACATAGCAGGATCAAATATATGTTGAATGGTTA  33990
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  33991 AATTTTCCTATTATGTGGCAGAGATTTAACTGTCGTGCCAATTCACAGGG  34040
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  34041 CTCACTATATAAATATTACAGAGGTCATGTATTGGGGTTGTGTCTTCTCA  34090
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  34091 AAAACCGTTTTCCTGTGAAGGTAGATCAGTCTGTGATTATTGAGGGGTAG  34140
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  34141 GGAGGTGTAAGAACAGCTACTCAGATCAGGGTCCAGAGTTGCTTTTCTAG  34190
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  34191 TGGTGGGACATGTCTGTGTGCTCCTTGGGATCAGTGTAAAGTAAAACGAC  34240
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  34241 CCAGGCAAGGAATCTGCTTCAGGACTTTGGAACACACTGTGAAGCTAACT  34290
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  34291 GATCTAAACTTGAATTACCTATTTATTTATTTATTTATTTATTTATCTTT  34340
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  34341 TGAGAGAGTCTTGCTCTGTTGCCCAGACTGGAGTGCAGTAGCATGATCTC  34390
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  34391 AGCTCGCCGCAACTTCCGCCTTCTGGGTTTAAATGATTCTCTTATCTCAG  34440
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  34441 CCTCCAGAGTAGCTGGGATTACAGGTGCCCGCCACCACTCCCAGCTAATT  34490
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  34491 TTTGTATTTTTAGTAGAGATGGTGTTTCACCATGTTGGCCAGGCTGGTCT  34540
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  34541 CAAACTCCTGACCTCAGGTGATCCACCCACCTCAGCCTCCCAAAGTGCTG  34590
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  34591 GGATTACAGGCATGAGCTACTGCGCTCAGCCTGGATTACCTTTTAAAATT  34640
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  34641 TGGCTTACCACCTGAACTAATTTGCTACAGAAAACTAGAGAGCTTATACT  34690
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  34691 GTGCTGATGAGATATGATGCTTCCTATGAAGGTATGTTAACACATAGAGT  34740
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  34741 GAGTGCTTGAAAGTGTCCAATCTAACTTCAGGGGTAGATTTGAAAGGGCA  34790
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  34791 ATTTTTTAAAAAGTGTCCAGTCCCCCTTAGTGGCTTCAGTGTTTATACTG  34840
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  34841 TGGAGCCTTGCCAGACTTCTTAGGATCAAATCACAGTTTCCTGAGTTCCT  34890
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  34891 TTCTATGGGCTTGGCTAGGAGCTCTTCTCATTTGTGGACAGTTTTGACTA  34940
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  34941 ACCTGTAATTATATCGTGGGCTTAAAATCTGTCATCAAGATTTTAAGCCA  34990
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  34991 GATGGCATGTTCTACCTTTTTTTTTATTAGCTCAGAGTGAAAAATTTTTC  35040
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  35041 AGATGAATTTTCATAGATTCTTCTCCTAACTCTATGAAATGGTGGTATAT  35090
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  35091 GAAAAAGTTCAGTGGTCATAATTAAAAATTGCTGAATGATATTAAGTATG  35140
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  35141 AAACAGACTTCCAATTAATTAGAAGATTTTGCAGAGTTGTTTAACCTTAA  35190
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  35191 AATTCAAGCATTACTTCCTTTTTTGAAGTTGTATTTACAAGCATTTGATG  35240
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  35241 TAATATATTTAAGTATTTCTTAATTTTCCACAAGGGGTTTATGGTATGAA  35290
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  35291 AAGGTCAGCATCCTACTAGGAACAGGGTTTAGCAGAGCACTGATAGTGAT  35340
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  35341 TTTTAAAGTGTGGTCCTTTTCCTAGGAGTTTCTAGTTGGGAAATGAAAGA  35390
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  35391 AAATGTTGATAGCAAACACTCGGAAGAAGGGTCAAGTCTTGTATATCTGG  35440
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  35441 ACATTGGTATAATACTGCTTGAAACCTGAGGACAAATATTTGTGTTTCAC  35490
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  35491 AGGATCATGTTCTAATTGAGCTCACCCAGGCTGGATTGAAAGGCTCCACA  35540
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  35541 GAGGGAAGTGAGAGCTATGAAGAAGATCCCTACTTGGTAGTTAACCCTAA  35590
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  35591 CTACTTGCTCGAAGATTGAGATAGTGAAAGTAACTGACCAGAGCTGAGGA  35640
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  35641 ACTGTGGCACAGCACCTCGTGGCCTGGAGCCTGGCTGGAGCTCTGCTAGG  35690
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  35691 GACAGAAGTGTTTCTGGAAGTGATGCTTCCAGGATTTGTTTTCAGAAACA  35740
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  35741 AGAATTGAGTTGATGGTCCTATGTGTCACATTCATCACAGGTTTCATACC  35790
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  35791 AACACAGGCTTCAGCACTTCCTTTGGTGTGTTTCCTGTCCCAGTGAAGTT  35840
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  35841 GGAACCAAATAATGTGTAGTCTCTATAACCAATACCTTTGTTTTCATGTG  35890
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  35891 TAAGAAAAGGCCCATTACTTTTAAGGTATGTGCTGTCCTATTGAGCAAAT  35940
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  35941 AACTTTTTTTCAATTGCCAGCTACTGCTTTTATTCATCAAAATAAAATAA  35990
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  35991 CTTGTTCTGAAGTTGTCTATTGGATTTCTTTCTACTGTACCCTGATTATT  36040
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  36041 ACTTCCATCTACTTCTGAATGTGAGACTTTCCCTTTTTGCTTAACCTGGA  36090
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  36091 GTGAAGAGGTAGAACTGTGGTATTATGGATGAGGTTTCTATGAGAAGGAG  36140
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  36141 TCATTAGAGAACTCATATGAAAGCTAGAGGCCTTAGAGATGACTTTCCAA  36190
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  36191 GGTTAATTCCAGTTGTTTTTTTTTTTTTTTAAGTTTATAAAAGTTTATTA  36240
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  36241 TACTTTTTTAAAATTACTCTTTAGTAATTTATTTTACTTCTGTGTCCTAA  36290
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  36291 GGGTAATTTCTCAGGATTGTTTTCAAATTGCTTTTTTAGGGGAAATAGGT  36340
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  36341 CATTTGCTATATTACAAGCAATCCCCAAATTTTATGGTCTTCCAGGAAAA  36390
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  36391 GTTATTACCGTTTATGATACTAACAGTTCCTGAGACTTAGCTATGATCAG  36440
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  36441 TATGTTCATGAGGTGGAGCAGTTCCTGTGTTGCAGCTTTTAACAACAGAT  36490
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  36491 GGCATTCATTAAATCACAAAGTATGTTAAAGGTCACAAAAGCAAAATAAC  36540
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  36541 TGTCTGAGGCTAAGGCCCACGTGGGACAGTCTAATACCCATGAGTACTCA  36590
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  36591 ACTTGCCTTGATGTCTGAGCTTTCCAGTGCAATGTGAATTTGAGCAGCCA  36640
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  36641 GAAATCTATTAGTAGAAAGCAAGACAGATTAATATAGGTTAAAACAATGA  36690
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  36691 TTTAAATATGTTTCTCCCAATAATTATCTCTTTCCCTGGAATCAACTTGT  36740
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  36741 ATGAAACCTTGTCAAAATGTACTCCACAAGTATGTACAATTAAGTATTTT  36790
+                                                                       
+NM_008567.2     2967 --------------------------------------------------   2966
+
+c135876443-13  36791 AAAAATAAATGGCAAACATTAAAAACAA  36818
+                                                 
+NM_008567.2     2967 ----------------------------   2966
+
+
+#---------------------------------------
+#---------------------------------------
